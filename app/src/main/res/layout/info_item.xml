@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="43dp"
+    android:background="@drawable/comm_settting_item_selector"
+    android:baselineAligned="false"
+    android:gravity="center_vertical"
+    android:id="@+id/ll_root"
+    android:minHeight="@dimen/SmallListHeight"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_left_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        android:layout_marginLeft="15dp"
+        tools:text="45454554554" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/NormalPadding"
+        android:layout_marginRight="13dp"
+        android:layout_weight="1.0"
+        android:duplicateParentState="true"
+        android:gravity="right">
+
+        <TextView
+            android:id="@+id/tv_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#999999"
+            android:textSize="16sp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:visibility="gone"
+            tools:text="@string/app_new" />
+
+        <ImageView
+            android:id="@+id/iv_right"
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:layout_gravity="center_vertical"
+            android:singleLine="true"
+            android:src="@drawable/qr"
+            android:visibility="gone" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/workbench_icon_go" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

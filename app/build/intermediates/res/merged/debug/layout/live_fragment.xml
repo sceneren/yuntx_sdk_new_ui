@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/button_panel"
+        android:layout_width="match_parent"
+        android:padding="20dip"
+        android:layout_height="wrap_content"
+        android:weightSum="5"
+
+        >
+
+
+        <ImageView
+            android:id="@+id/btn_close"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/close"/>
+
+        <ImageView
+            android:id="@+id/btn_play"
+            android:layout_width="match_parent"
+            android:clickable="true"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/def_usericon"/>
+
+
+        <ImageView
+            android:id="@+id/btn_chat"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/message"/>
+
+
+
+        <ImageView
+            android:id="@+id/btn_liwi"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gift"/>
+
+        <ImageView
+            android:id="@+id/btn_love"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/love"/>
+
+    </LinearLayout>
+
+    <com.yuntongxun.ecdemo.ui.livechatroom.LiveEditText
+        android:id="@+id/input_panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+</LinearLayout>

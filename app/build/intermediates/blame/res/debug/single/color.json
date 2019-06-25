@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_pref_summary.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_pref_summary.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/sub_text_dial.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/sub_text_dial.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/system_msg_nikename_color.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/system_msg_nikename_color.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/launcher_tab_text_selector.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/launcher_tab_text_selector.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_title_btn_text.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_title_btn_text.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/voice_conv_textcolor.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/voice_conv_textcolor.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/primary_text_light.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/primary_text_light.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/common_top_bar_right_string_color.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/common_top_bar_right_string_color.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/edit_save_btn_text_color.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/edit_save_btn_text_color.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/operation_btn_color_selector.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/operation_btn_color_selector.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_style_one_btn_text.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_style_one_btn_text.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_list_textcolor_time.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_list_textcolor_time.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/white_color_selector.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/white_color_selector.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/btn_dialog.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/btn_dialog.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/main_tab_text_color.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/main_tab_text_color.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/grey_btn_text_color.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/grey_btn_text_color.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/picker_floder_name_color_selector.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/picker_floder_name_color_selector.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/content_bg.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/content_bg.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_list_textcolor_three.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_list_textcolor_three.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ec_grey_btn_text_color.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ec_grey_btn_text_color.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/login_btn_text.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/login_btn_text.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_pref_title.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_pref_title.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_style_two_btn_text.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_style_two_btn_text.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/voice_pref_title.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/voice_pref_title.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/actionbar_text_white_selector.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/actionbar_text_white_selector.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/voice_conv_time_textcolor.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/voice_conv_time_textcolor.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color/ccp_button_text.xml",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/color/ccp_button_text.xml"
+    }
+]

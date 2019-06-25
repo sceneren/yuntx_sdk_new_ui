@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

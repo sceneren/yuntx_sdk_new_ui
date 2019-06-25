@@ -1,0 +1,1946 @@
+[
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_01.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_01.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_02.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_02.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/input_bar_bg_active.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/input_bar_bg_active.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yinghua.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yinghua.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_dialog_cancel_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/joking.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/joking.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche18.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche18.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_rar.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_rar.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_check_off_disable.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_check_off_disable.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_check_on_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_check_on_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/attachment_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/attachment_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_03.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_03.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_00.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_00.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_folder.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_folder.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_mianti_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_mianti_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_dialog_background.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_dialog_background.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_01_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_01_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/type_select_btn_nor.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/type_select_btn_nor.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00020.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00020.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/app_panel_pic_icon_shade_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/app_panel_pic_icon_shade_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_mianti_high.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_mianti_high.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/spinner_48_outer_holo.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_intephone_connect.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_intephone_connect.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche3.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche3.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_speaking.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_speaking.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voip_call.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voip_call.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/regist_icon_yanzheng.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/regist_icon_yanzheng.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/type_select_btn_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/type_select_btn_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_mianti_high.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_mianti_high.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00007.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00007.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/pause.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/pause.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mute_enable_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mute_enable_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/begin_video_conference.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/begin_video_conference.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_btn_style_one_focused.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_jingyin_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_jingyin_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/animation_box03.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/animation_box03.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mute_enable_pressedl.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mute_enable_pressedl.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_meiyan_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_meiyan_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_blue_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/spinner_16_inner_holo.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/spinner_16_inner_holo.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_switch_font_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/camera_switch_font_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_jingyin_high.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_jingyin_high.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voip.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voip.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_left_04.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_left_04.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/top_point_bg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/top_point_bg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/to_read_tips_onbackbtn.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/to_read_tips_onbackbtn.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_04.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_04.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_02_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_02_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/tab_item_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/tab_item_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatroom_unspeaker.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatroom_unspeaker.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_name_input_no.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_name_input_no.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00003.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00003.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/filea.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/filea.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/log_accounts_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/log_accounts_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/woman.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/woman.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/fire_msg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/fire_msg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_switch_font_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/camera_switch_font_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_name_input.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_name_input.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_button_stop_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_button_stop_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche7.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche7.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_background_01.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_background_01.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/zuanshi.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/zuanshi.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mute_forbid_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mute_forbid_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/common_top_bar_arrow_up.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/common_top_bar_arrow_up.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_02.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_02.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00019.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00019.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/share_bg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/share_bg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_back_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_back_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/tipbar_bg_red_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/tipbar_bg_red_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_custom_notify.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ic_custom_notify.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/emotion_del_down.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/emotion_del_down.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_left_02_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_left_02_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/rcd_cancel_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/rcd_cancel_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/touxiang.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/touxiang.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/spinner_16_outer_holo.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/spinner_16_outer_holo.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_forbid_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_forbid_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche11.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche11.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_07.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_07.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_left_02.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_left_02.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_join.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_join.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_five.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_five.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche10.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche10.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_call.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_call.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_back_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_back_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_left_02_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_left_02_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche0.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche0.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_action_add_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_action_add_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/question.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/question.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_04_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_04_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00012.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00012.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatting_biaoqing_btn_enable.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/emotion_del_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/emotion_del_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_play_big.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_play_big.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_rcd_btn_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_rcd_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_sender_preview.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_sender_preview.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/msg_fire_readed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/msg_fire_readed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/header_man.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/header_man.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_goto_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_goto_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp6.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp6.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/back_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/photograph_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/photograph_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/add_contact_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/add_contact_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/actionbar_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/actionbar_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_dial_button_left_1_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_dial_button_left_1_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_02.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_02.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_intephone_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_intephone_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/heart_zero.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/heart_zero.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_shexiang_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_shexiang_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00011.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00011.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_08.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_08.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/background_black_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/background_black_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/log_password_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/log_password_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_hands_free_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_hands_free_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_back.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_back.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_guaduan_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_guaduan_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/inter_phone_persons_ic.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/inter_phone_persons_ic.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00021.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00021.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_08.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_08.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/love.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/love.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/jiezhi.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/jiezhi.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/feiji.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/feiji.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/regist_icon_password.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/regist_icon_password.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_03.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_03.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/image_download_fail_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/image_download_fail_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatfrom_bg_voice_downloading_back.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatfrom_bg_voice_downloading_back.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_02.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_02.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_icon.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/title_bar_icon.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatting_biaoqing_btn_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_icon_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/title_bar_icon_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/system_msgbox_bg_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/system_msgbox_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_camera_switching.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_camera_switching.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00018.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00018.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_img_to_bg_mask_press.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_img_to_bg_mask_press.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_head_portrait.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_head_portrait.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_dividing_line.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_dividing_line.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_dialog_button_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_four.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_four.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_enable_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_enable_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/jingyin_workb.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/jingyin_workb.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/start_intercom_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/start_intercom_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_04.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_04.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/tipbar_bg_red_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/tipbar_bg_red_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/robot.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/robot.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_mute_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_mute_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_03.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_03.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_left_03.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_left_03.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_suoxiao.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_suoxiao.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/jingyin.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/jingyin.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_left_04_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_left_04_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_03.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_03.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_09.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_09.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/background_black_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/background_black_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mianti_high.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mianti_high.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_button_cancle_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_button_cancle_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/sid.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/sid.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche15.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche15.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/androidtemplate.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/androidtemplate.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/im_icon_video.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/im_icon_video.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_style_one_disabled.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_style_one_disabled.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_black_button.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_black_button.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_list_grey_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_list_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_04_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_04_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_liaotian_qipao_blue.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/generated/res/pngs/debug/drawable-hdpi/ic_liaotian_qipao_blue.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/common_top_bar_arrow_down.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/common_top_bar_arrow_down.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/initview.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/initview.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_background_04.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_background_04.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ssdk_oks_ptr_ptr.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche4.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche4.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_red_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_red_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_left_03_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_left_03_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_rcd_btn_nor.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_rcd_btn_nor.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_03_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_03_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/unread_dot.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/unread_dot.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00013.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00013.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/liwu.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/liwu.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_topbar_add_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_topbar_add_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/dial_button_left_1_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/dial_button_left_1_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_input_text_notify_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_input_text_notify_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_offline.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_offline.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_button_begin_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_button_begin_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_left_03.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_left_03.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_06.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_06.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_left_04.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_left_04.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche13.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche13.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_dialog_special_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_dialog_special_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_intephone_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_intephone_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/spla.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/spla.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_background_02.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_background_02.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00015.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00015.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_mute.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_mute.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_switch_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_switch_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/redrose.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/redrose.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_two.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_two.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/call_interface_diaerpad_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/call_interface_diaerpad_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/regist_icon_open.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/regist_icon_open.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/capability_file_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/capability_file_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp3.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp3.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/jingyin_high.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/jingyin_high.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_left_02.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_left_02.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/heart_five.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/heart_five.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/three_point.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/three_point.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_dialog_special_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_dialog_special_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/bigleft.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/bigleft.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/rcd_cancel_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/rcd_cancel_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/videorecord_icon_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/videorecord_icon_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_pdf.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_pdf.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche2.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche2.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_04_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_04_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_check_on_disable.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_check_on_disable.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_05.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_05.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_left_04_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_left_04_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/unread_count_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/unread_count_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_ohter.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_ohter.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_bg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_bg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_intephone_failed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_intephone_failed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_eight.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_eight.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/heart_one.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/heart_one.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/im_attach_back.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/im_attach_back.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/start_intercom_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/start_intercom_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_blue_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_red_button_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_red_button_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_enable_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_enable_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_04.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_04.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/animation_box01.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/animation_box01.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_04.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_04.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00005.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00005.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/forgertpassword.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/forgertpassword.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_play.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_play.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/detail_robot.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/detail_robot.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_quit.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_quit.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_jingyin_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_jingyin_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_guaduan_high.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_guaduan_high.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/fire_msg_big.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/fire_msg_big.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/regist_back_image.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/regist_back_image.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/personal_center_bg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/personal_center_bg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche5.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche5.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_01.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_01.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/videorecord_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/videorecord_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/go.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/go.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00022.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00022.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_mianti_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_mianti_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_mute_notify_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_mute_notify_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_over.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_over.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/title_bar.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/title_bar.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lock_closed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lock_closed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche16.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche16.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/tuoyuanhongse.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/tuoyuanhongse.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/videochat.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/videochat.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_action_add_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_action_add_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/attachment.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/attachment.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mianti.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mianti.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/list_thicklinecell_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/list_thicklinecell_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/weather.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/weather.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/share_wechat_moments.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/share_wechat_moments.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/share_cancle.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/share_cancle.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_01_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_01_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/tuoyuan.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/tuoyuan.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/header_woman.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/header_woman.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/im_icon_call.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/im_icon_call.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_09.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_09.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_02_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_02_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00010.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00010.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ttq.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ttq.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_rcd_hint_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp1.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp1.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_04.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_04.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/dial_button_left_1_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/dial_button_left_1_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_green_button.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_green_button.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_transfer_icon_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_transfer_icon_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/heart_two.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/heart_two.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_input_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_input_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_03.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_03.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/gift.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/gift.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/meinv.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/meinv.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_seven.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_seven.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_answer.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_answer.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_play_gif.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ic_play_gif.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/hua.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/hua.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/man.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/man.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/type_select_btn_focused.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/type_select_btn_focused.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_marka.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_marka.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp4.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp4.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/call_interface_diaerpad.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/call_interface_diaerpad.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche1.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche1.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_list_fastscroll_selected_bg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_list_fastscroll_selected_bg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_txt.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_txt.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_style_one_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_style_one_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_10.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_10.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_diaerpad_on.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_diaerpad_on.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/meiyan.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/meiyan.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_check_off_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_check_off_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mianti_workb.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mianti_workb.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_07.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_07.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_wait.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_wait.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_orange.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_orange.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche12.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche12.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_03.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_03.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/heart_three.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/heart_three.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00009.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00009.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/huibiao.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/huibiao.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/bottombar_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/bottombar_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_dial_button_left_1_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_dial_button_left_1_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_title_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_title_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00001.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00001.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatfrom_bg_voice_downloading.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatfrom_bg_voice_downloading.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_icon_guaduan_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_icon_guaduan_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00002.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00002.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_hands_free.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_hands_free.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_location_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_location_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_create.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_create.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00008.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00008.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_style_one_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_style_one_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/add_contact.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/add_contact.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_03_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_03_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_11.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_11.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_forbid_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_forbid_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/upload.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/upload.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00017.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00017.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_icon_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_say_small.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_say_small.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp5.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp5.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_11.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_11.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/select_account_photo_four.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/select_account_photo_four.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_red_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_red_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_hang_up.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_hang_up.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/big.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/big.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/xidiao.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/xidiao.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_02.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_02.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_01_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_01_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_green_button_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_green_button_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche17.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche17.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_touxiang_persion_gray.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_touxiang_persion_gray.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_left_03_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_left_03_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/jieting_press.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/jieting_press.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_02.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_02.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/message.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/message.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_button_stop_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_button_stop_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_right_01.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_right_01.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/baoxiang.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/baoxiang.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_01.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_01.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_icon_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_icon_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/bangbangtang.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/bangbangtang.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_to_short.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_to_short.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/tiantianquan.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/tiantianquan.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_04.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_04.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/into_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/into_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_dialog_button_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/animation_box02.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/animation_box02.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_00.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_00.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/list_item_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/list_item_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_to_bg_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_to_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatroom_voice_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatroom_voice_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00006.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00006.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_01_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_01_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/location_tips.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/location_tips.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/playing.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/playing.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatroom_speaker.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatroom_speaker.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_button_begin_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_button_begin_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00004.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00004.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/gettoken.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/gettoken.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche6.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche6.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/jieting.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/jieting.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_img_from_bg_mask_press.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_img_from_bg_mask_press.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatto_bg_voice_downloading.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatto_bg_voice_downloading.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_02_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_02_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/start_experience.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/start_experience.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/initlauncher.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/initlauncher.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/attention.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/attention.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/small.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/small.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_refuse.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_refuse.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/spinner_48_inner_holo.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_ppt.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_ppt.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatview_location_map.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatview_location_map.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/more.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/more.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/heart_four.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/heart_four.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/animation_box04.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/animation_box04.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_three.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_three.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/voice_list_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/voice_list_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/image_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_goto_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_goto_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_xls.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_xls.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/title_bar_logo.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/title_bar_logo.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/sendmessage.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/sendmessage.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/animation_bg.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/animation_bg.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_chat_mute_notify_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_chat_mute_notify_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/aixin.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/aixin.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/input_bar_bg_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/input_bar_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/video_button_cancle_pressed.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/video_button_cancle_pressed.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_doc.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_doc.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_update_point.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_update_point.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ccp_title_btn_phone.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ccp_title_btn_phone.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_10.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_10.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp7.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp7.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_selectcontact.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/btn_selectcontact.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_switch_off.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_switch_off.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/mute_forbid_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/mute_forbid_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00016.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00016.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_switch_back_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/camera_switch_back_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_04_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_04_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/camera_switch_back_pressed.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/camera_switch_back_pressed.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/status_uncreateor.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/status_uncreateor.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_03_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_03_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/system_msgbox_bg_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/system_msgbox_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/v_meiyan.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/v_meiyan.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/msg_state_sending.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/msg_state_sending.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/def_usericon_six.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/def_usericon_six.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_digital_06.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_digital_06.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/lanseyaoji00014.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/lanseyaoji00014.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/sysmsg_item_top.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/sysmsg_item_top.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/create_video.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/create_video.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/share_wechat.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/share_wechat.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_transfer_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_transfer_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_red_button.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_red_button.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_03_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_03_on.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/file_attach_img.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/file_attach_img.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_middle_01.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_middle_01.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_background_03.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_background_03.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chat_img_from_default_bg.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chat_img_from_default_bg.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/shipinliaotian_icon_xiangji_normal.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/shipinliaotian_icon_xiangji_normal.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/chatroom_mike_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/chatroom_mike_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/group_head.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/group_head.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/app_panel_pic_icon_shade_normal.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/app_panel_pic_icon_shade_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/im_attach_folder.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/im_attach_folder.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche14.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche14.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/inter_person_icon.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/inter_person_icon.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_call_interface_diaerpad.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_call_interface_diaerpad.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/paoche8.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/paoche8.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/regist_icon_close.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/regist_icon_close.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_load.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/dialog_load.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_middle_01.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_middle_01.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/msg_fire_unread.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/msg_fire_unread.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/yuyinliaotian_header_default.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/yuyinliaotian_header_default.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/smallleft.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/smallleft.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/im_img4.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/im_img4.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/amp2.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/amp2.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/regist_icon_username.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/regist_icon_username.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_topbar_add.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/icon_topbar_add.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_digital_05.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/keyboard_digital_05.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi/ec_keyboard_right_02_on.9.png",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/ec_keyboard_right_02_on.9.png"
+    }
+]

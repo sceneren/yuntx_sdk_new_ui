@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.cloopen.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/transparent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <!--上面-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="10dp">
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/subvi_top_left"
+            android:layout_width="88dp"
+            android:layout_height="88dp">
+
+        </com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/subvi_top_midlet"
+            android:layout_width="88dp"
+            android:layout_height="88dp">
+
+        </com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/subvi_top_right"
+            android:layout_width="88dp"
+            android:layout_height="88dp">
+
+        </com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/subvi_botom_left"
+            android:layout_width="88dp"
+            android:layout_height="88dp">
+
+        </com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/subvi_botom_midle"
+            android:layout_width="88dp"
+            android:layout_height="88dp">
+
+        </com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/subvi_botom_right"
+            android:layout_width="88dp"
+            android:layout_height="88dp">
+
+        </com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+    </LinearLayout>
+</LinearLayout>

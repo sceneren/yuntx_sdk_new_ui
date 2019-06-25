@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/raw/nine_rect.properties",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/raw/nine_rect.properties"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/raw/libarm.so",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/res/raw/libarm.so"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/raw/beep.ogg"
+    }
+]

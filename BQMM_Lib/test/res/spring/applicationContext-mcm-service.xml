@@ -1,0 +1,310 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:lang="http://www.springframework.org/schema/lang"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:task="http://www.springframework.org/schema/task"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee.xsd
+		http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd
+		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+		http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-3.0.xsd">
+	
+	<bean id="mcmController" class="com.yuntongxun.mcm.mcm.controller.MCMController" init-method="init">
+		<property name="moduleProducter" ref="moduleProducter" />
+		<property name="mcmService" ref="mcmService" />
+	</bean>
+	
+	<bean id="pushService" class="com.yuntongxun.mcm.service.impl.PushServiceImpl" init-method="init" >
+		<property name="moduleProducter" ref="moduleProducter" />
+		<property name="cryptosKey" value="${mcm.cryptos.key}" />
+		<property name="pushMessageThreadNumber" value="${thread.number.pushmessage}" />
+		<property name="mcmDao" ref="mcmDao" />
+		<property name="versionDao" ref="versionDao" />
+		
+		<property name="userRedisDao" ref="userRedisDao"/>
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao"/>
+		<property name="asService" ref="asService"/>
+		<property name="rmServerRequestService" ref="rmServerRequestService"/>
+		<property name="defaultQueueType" value="${rm.server.default.queuetype}" />
+		
+		<property name="messageRedisDao" ref="messageRedisDao" />
+	</bean>
+
+	<bean id="httpClientDispatcher" class="com.yuntongxun.mcm.http.HttpClientImpl">
+		<property name="ccpHttpClient" ref="ccpHttpClient"></property>
+	</bean>
+
+	<bean id="asService" class="com.yuntongxun.mcm.service.impl.AsServiceImpl" init-method="init">
+		<property name="dispatcher" ref="httpClientDispatcher" />
+		<property name="pushService" ref="pushService" />
+		<property name="versionDao" ref="versionDao" />
+		<property name="baseRedisDao" ref="baseRedisDao" />
+		<property name="mcmDao" ref="mcmDao" />
+		
+		<property name="moduleCode" value="${mcmserver.id}" />
+		
+		<property name="resendTimeNum" value="${http.resendTimeNum}" />
+		<property name="processMessageThreadNumber" value="${thread.number.processmessage}" />
+		<property name="asPushMailFormat" value="${as.push.mail.format}" />
+		<property name="asPushWeiXinFormat" value="${as.push.weixin.format}" />
+		<property name="imUserService" ref="imUserService" />
+		
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao" />
+		<property name="rmServerRequestService" ref="rmServerRequestService" />
+		<property name="weiXinGWService" ref="weixinService" />
+		
+	</bean>
+	
+	<bean id="mcmService" class="com.yuntongxun.mcm.mcm.service.impl.MCMServiceImpl">
+		<property name="cryptosKey" value="${mcm.cryptos.key}" />
+		<property name="agentService" ref="agentService" />
+		<property name="userService" ref="userService" />		
+		<property name="appRedisDao" ref="appRedisDao" />
+		<property name="baseRedisDao" ref="baseRedisDao" />		
+		<property name="sevenMoorService" ref="sevenMoorService" />
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao" />
+		<property name="moduleProducter" ref="moduleProducter" />
+	</bean>
+	
+	<bean id="asDispatcher" class="com.yuntongxun.mcm.mcm.dispatcher.ReceiveAsDispatcher" destroy-method="destroy" init-method="init">
+		<property name="asService" ref="asService"></property>
+		<property name="receiveAsMsgThreadNumber" value="${thread.number.receivemsg}" />
+	</bean>
+	
+	<bean id="ccpHttpClient" class="com.yuntongxun.mcm.util.CCPHttpClient" init-method="init">
+		<property name="connTimeout" value="${http.connTimeout}" />
+		<property name="soTimeout" value="${http.soTimeout}" />
+		<property name="fileTempDir" value="${file.temp.dir}" />
+	</bean>
+	
+	<bean id="mailService" class="com.yuntongxun.mcm.service.impl.MailGWServiceImpl" init-method="init">
+		<property name="mailgwServerUrl" value="${mailgw.server}" />
+		<property name="httpClient" ref="httpClientDispatcher" />
+		<property name="resendTimeNum" value="${http.resendTimeNum}" />
+		<property name="asService" ref="asService" />
+		<property name="appRedisDao" ref="appRedisDao" />
+	</bean>
+		
+	<bean id="weixinService" class="com.yuntongxun.mcm.service.impl.WeiXinGWServiceImpl" init-method="init">
+		<property name="weixingwServerUrl" value="${weixingw.server}" />
+		<property name="httpClient" ref="httpClientDispatcher" />
+		<property name="resendTimeNum" value="${http.resendTimeNum}" />
+		<property name="asService" ref="asService" />
+		<property name="appRedisDao" ref="appRedisDao" />
+		
+		<property name="imUserService" ref="imUserService" />
+	</bean>
+	
+	<!-- file server interface start -->
+	<bean id="fileServerService" class="com.yuntongxun.mcm.fileserver.service.impl.FileServerServiceImpl">
+		<property name="fileServerUrl" value="${file.server}" />
+		<property name="httpClient" ref="httpClientDispatcher" />
+	</bean>
+	<!-- file server interface end -->
+	
+	<!-- weixin interface start -->
+	<bean id="weixinConfig" class="com.yuntongxun.mcm.weixin.WeiXinConfiguration" init-method="init">
+		<property name="baseRedisDao" ref="baseRedisDao" />
+		<property name="moduleCode" value="${mcmserver.id}" />
+	</bean>
+	
+	<bean id="mcmWeiXinService" class="com.yuntongxun.mcm.weixin.service.impl.MCMWeiXinServiceImpl" >
+		<property name="weixinVerifyToken" value="${weixin.verify.token}" />
+		<property name="httpClient" ref="httpClientDispatcher" />
+		<property name="fileServerService" ref="fileServerService" />
+		<property name="appRedisDao" ref="appRedisDao" />
+		<property name="asService" ref="asService" />
+	</bean>
+	<!-- weixin interface end -->
+	
+	<!-- agent start -->
+	<bean id="agentService" class="com.yuntongxun.mcm.mcm.service.impl.AgentServiceImpl">
+		<property name="imAgentService" ref="imAgentService" />
+		<property name="genesysAgentService" ref="genesysAgentService" />
+	</bean>
+	
+	<bean id="imAgentService" class="com.yuntongxun.mcm.mcm.service.impl.IMAgentServiceImpl">
+		<property name="rmServerRequestService" ref="rmServerRequestService" />
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao" />
+		<property name="pushService" ref="pushService" />
+		<property name="versionDao" ref="versionDao" />
+		<property name="dataAsyncService" ref="dataAsyncService" />
+		<property name="weixinService" ref="weixinService" />
+		<property name="fileServerDownloadUrl" value="${file.server.download}" />		
+		<property name="httpClient" ref="httpClientDispatcher" />
+		<property name="resendTimeNum" value="${http.resendTimeNum}" />
+	</bean>
+	
+	<bean id="genesysAgentService" class="com.yuntongxun.mcm.genesys.service.impl.GenesysAgentServiceImpl" destroy-method="destroy">
+		<property name="ixnServerIP" value="${ixn.server.ip}" />
+		<property name="ixnServerPort" value="${ixn.server.port}" />
+		<property name="tenantId" value="${tenantId}" />
+		<property name="sipServerIP" value="${sip.server.ip}" />
+		<property name="sipServerPort" value="${sip.server.port}" />
+		
+		<property name="moduleProducter" ref="moduleProducter" />
+		<property name="registerMessageSwitch" value="${register.message.switch}" />
+		<property name="pushService" ref="pushService" />
+		<property name="fileServerUrl" value="${file.server}" />
+		<property name="genesyFileServerUrl" value="${genesys.file.server.url}" />
+	</bean>
+	
+	<bean id="ixnAgentService" class="com.yuntongxun.mcm.genesys.service.IxnAgentService" scope="prototype" >
+		<property name="pushService" ref="pushService" />
+		<property name="versionDao" ref="versionDao" />
+		<property name="fileServerService" ref="fileServerService" />
+	</bean>
+	
+	<bean id="sipServerService" class="com.yuntongxun.mcm.genesys.service.SipServerService" scope="prototype">
+		<property name="pushService" ref="pushService" />
+	</bean>
+	
+	<bean id="chatUserService" class="com.yuntongxun.mcm.genesys.service.ChatUserService" scope="prototype">
+		<property name="pushService" ref="pushService" />
+		<property name="versionDao" ref="versionDao" />
+		<property name="fileServerService" ref="fileServerService" />
+	</bean>
+	<!-- agent end -->
+	
+	<!-- user start -->
+	<bean id="userService" class="com.yuntongxun.mcm.mcm.service.impl.UserServiceImpl">
+		<property name="imUserService" ref="imUserService" />
+		<property name="genesysUserService" ref="genesysUserService" />
+		<property name="ccService" ref="ccService" />
+		<property name="sevenMoorService" ref="sevenMoorService" />
+	</bean>
+	
+	<bean id="imUserService" class="com.yuntongxun.mcm.mcm.service.impl.IMUserServiceImpl">
+		<property name="rmServerRequestService" ref="rmServerRequestService" />
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao" />
+		<property name="pushService" ref="pushService" />
+		<property name="versionDao" ref="versionDao" />
+		<property name="dataAsyncService" ref="dataAsyncService" />
+		<property name="weixinService" ref="weixinService" />
+		
+		<property name="defaultQueueType" value="${rm.server.default.queuetype}" />
+	</bean>
+	
+	<bean id="genesysUserService" class="com.yuntongxun.mcm.genesys.service.impl.GenesysUserServiceImpl">
+		<property name="fileServerUrl" value="${file.server}" />
+		<property name="genesyFileServerUrl" value="${genesys.file.server.url}" />
+	</bean>
+	<!-- user end -->
+	
+	<bean id="dataAsyncService" class="com.yuntongxun.mcm.mcm.service.impl.DataAsyncServiceImpl" init-method="init">
+		<property name="m3csMessageHistoryDao" ref="m3csMessageHistoryDao"/>
+	</bean>
+	
+	<!-- rm server request start -->
+	<bean id="rmServerRequestService" class="com.yuntongxun.mcm.mcm.service.impl.RMServerRequestServiceImpl" init-method="init">
+		<property name="tcpClient" ref="tcpClient" /> 
+		<property name="requestNo" value="${rm.server.requestNo}" />
+		<property name="host" value="${rm.server.host}" />
+		<property name="port" value="${rm.server.port}" />
+		<property name="isConnect" value="${rm.server.isConnect}" />
+	</bean>
+	
+	<bean id="tcpClient" class="org.yuntongxun.tools.protocol.tcp.client.TCPClient" destroy-method="destroy">
+	</bean>
+	<!-- rm server request end -->
+	
+	<!-- response start -->
+	<bean id="responseService" class="com.yuntongxun.mcm.mcm.service.impl.ResponseServiceImpl" init-method="init">
+		<property name="rmServerResponseService" ref="rmServerResponseService" />
+	</bean>
+	
+	<bean id="rmServerResponseService" class="com.yuntongxun.mcm.mcm.service.impl.RMServerResponseServiceImpl" >
+		<property name="pushService" ref="pushService" />
+		<property name="rmServerRequestService" ref="rmServerRequestService" />
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao" />
+		<property name="asService" ref="asService"></property>
+		<property name="weixinService" ref="weixinService" />
+		<property name="dataAsyncService" ref="dataAsyncService" />
+	</bean>
+	<!-- response end -->
+	
+	<!-- 7moor service -->
+	<bean id="sevenMoorService" class="com.yuntongxun.mcm.sevenmoor.service.impl.SevenMoorServiceImpl" init-method="init">
+		<property name="sevenMoorNodeServerUrl" value="${sevenmoor.nodeserver.url}" />
+		<property name="httpClient" ref="httpClientDispatcher" />
+		<property name="pushService" ref="pushService" />
+		<property name="baseRedisDao" ref="baseRedisDao" />
+		<property name="sevenmoorAccessId" value="${sevenmoor.access.id}" />
+		<property name="localServerUrl" value="${local.server.url}" />
+		
+		<property name="versionDao" ref="versionDao" />
+	</bean>
+	
+	<!-- cc service -->
+	<bean id="ccService" class="com.yuntongxun.mcm.cc.service.impl.CCServiceImpl">
+		<property name="userAgentDialogRedisDao" ref="userAgentDialogRedisDao" />
+		<property name="pushService" ref="pushService" />
+		<property name="weixinService" ref="weixinService" />
+		<property name="resendTimeNum" value="${http.resendTimeNum}" />
+		<property name="httpClient" ref="httpClientDispatcher" />
+	</bean>
+	
+	<bean id="zkClient" class="org.yuntongxun.tools.balance.zk.ZKClient" init-method="init" destroy-method="destroy">
+		<property name="zkConnectString" value="${zk.addr}"/>
+	</bean>
+	
+	<bean id="msgLite" class="com.yuntongxun.mcm.core.protobuf.MsgLite.MsgLiteInner" factory-method="getDefaultInstance" />
+
+	<bean id="moduleConsumer" class="com.yuntongxun.mcm.core.connection.ModuleConsumer" init-method="init">
+		<property name="threadNumber" value="${thread.number.dispatcher}"/>
+	</bean>
+	
+	<bean id="moduleProducter" class="com.yuntongxun.mcm.core.connection.ModuleProducter">
+		<property name="simpleClient" ref="simpleClient" />
+		<property name="simpleServer" ref="simpleServer" />
+	</bean>
+	
+	<!-- TCP Server for Module -->
+	<bean id="simpleServer" class="org.yuntongxun.tools.balance.SimpleServer" init-method="init" destroy-method="destroy">
+		<property name="messageLite" ref="msgLite" />
+		<property name="messageListener" ref="moduleConsumer" />
+		<property name="listenAddress" value="${mcmserver.addr}"/>
+		<property name="port" value="${mcmserver.port}" />
+		<property name="moduleNo" value="${mcmserver.id}"/>
+		<property name="serverPath" value="${mcmserver.path}"/>
+		
+		<property name="zkClient" ref="zkClient"/>
+	</bean>
+	<!-- End  -->
+	
+	<!-- TCP Client for Module -->
+	<bean id="simpleClient" class="org.yuntongxun.tools.balance.SimpleClient" init-method="init" destroy-method="destroy">
+		<property name="messageLite" ref="msgLite"/>
+		<property name="messageListener" ref="moduleConsumer"/>
+		<property name="zkClient" ref="zkClient"/>
+		<property name="routeData" ref="routeData"/>
+		<property name="listenServicePath">
+			<list>
+				<value>${zk.callgw.path}</value>
+				<value>${zk.connector.path}</value>
+				<value>${zk.push.path}</value>
+			</list>
+		</property>
+	</bean>
+	<!-- End  -->
+	
+	<!-- Redis Route Data  -->
+	<bean id="routeData" class="org.yuntongxun.tools.balance.data.impl.RedisRouteData" init-method="init" >
+		<property name="host" value="${redis.ip}"/>
+		<property name="port" value="${redis.port}"/>
+		<property name="password" value="${redis.password}"/>
+	</bean>
+	<!-- End  -->
+	
+</beans>

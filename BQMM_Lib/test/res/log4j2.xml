@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN" monitorInterval="30">
+	<Properties>
+		<Property name="log_home">/app/mcmserver_54001/logs</Property>
+	</Properties>
+	<Appenders>
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%-d{yyyy-MM-dd HH:mm:ss.SSS} [%p] %t %c{1}%x - %m%n" />
+		</Console>
+		<RollingFile name="mcmserver" immediateFlush="false" fileName="${log_home}/mcmserver.log"
+			filePattern="${log_home}/mcmserver.log.%-d{yyyy-MM-dd-HH}">
+			<PatternLayout
+				pattern="%-d{yyyy-MM-dd HH:mm:ss.SSS} [%p] %x - %m%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" modulate="true" />
+			</Policies>
+		</RollingFile>
+		<Async name="async">
+			<AppenderRef ref="console" />
+			<AppenderRef ref="mcmserver" />
+		</Async>
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="async" />
+		</Root>
+	</Loggers>
+</Configuration>

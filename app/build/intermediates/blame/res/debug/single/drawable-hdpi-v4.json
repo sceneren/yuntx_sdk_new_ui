@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_chatfrom_bg_focused.9.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_emoji_delete_img.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_emoji_delete_img.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_back.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_back.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_emoji_loadfail.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_emoji_loadfail.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_setting2x.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_setting2x.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_emoji_loading.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_emoji_loading.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_chatfrom_bg_normal.9.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_chatto_bg_focused.9.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wizard.jpg",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/wizard.jpg"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/aixin_g.gif",
+        "source": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/drawable-hdpi/aixin_g.gif"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_emoji_eo_fail_default.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_emoji_eo_fail_default.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_chatto_bg_normal.9.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bqmm_keyboard_store_bg.png",
+        "source": "/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res/drawable-hdpi-v4/bqmm_keyboard_store_bg.png"
+    }
+]

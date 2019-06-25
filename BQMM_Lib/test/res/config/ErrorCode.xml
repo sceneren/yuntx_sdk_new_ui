@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ErrorCode>
+
+	<!-- 内部错误 (111000-111099) -->
+	<error code="111000">未知错误</error><!-- 告警 -->
+	<error code="111006">【内部错误】SQL语句执行失败</error><!-- 告警 -->
+	<error code="111007">【内部错误】数据库操作失败</error><!-- 告警 -->
+	<error code="111018">【内部错误】连接Redis失败</error>
+	<error code="111099"></error>
+
+	<!-- 其他 (112600 - 112699) -->
+	<error code="112600">【其他】HTTP网络连接超时</error> <!-- 告警 -->
+	<error code="112601">【其他】HTTP协议错误</error>
+	<error code="112602">【其他】HTTP请求方法不支持</error>
+	<error code="112604">【其他】HTTP POST 请求没有携带包体</error>
+	<error code="112605">【其他】HTTP状态码不等于200</error><!-- 告警 -->
+	<error code="112606">【其他】HTTPS证书错误</error>
+	<error code="112607">【其他】HTTPS密钥算法错误</error>
+	<error code="112608">【其他】HTTPS密钥错误</error>
+	<error code="112699"></error>
+</ErrorCode>

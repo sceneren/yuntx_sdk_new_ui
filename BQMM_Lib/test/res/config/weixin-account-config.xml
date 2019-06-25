@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configWeiXin> 
+  <publicAccount accountId="gh_59458b2faa40"> 
+    <openID>gh_59458b2faa40</openID>  
+    <appID>wx04b3cdd144f81d62</appID>  
+    <appSecret>6d119405b5670fc02061659b558afadb</appSecret>  
+    <ronglianAppId>20150314000000110000000000000010</ronglianAppId>  
+    <accessToken>BVhqG10KL5IqSFstiL_khySgUW1OS6zek7rM_aBEcyMJCWLeZauT1XI9gLMCed0ZoRXpF-uNWPWpM3_yKZ09H9_JQj1aRrpDu34Rr5_7clg</accessToken>  
+    <tokenExpirationTime>1439193052986</tokenExpirationTime> 
+  </publicAccount> 
+</configWeiXin>

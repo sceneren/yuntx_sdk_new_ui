@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ecdemo="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_toolbar" />
+
+    <RelativeLayout
+        android:id="@+id/p_touxiang"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:background="@drawable/content_bg"
+        android:clickable="true">
+
+        <ImageView
+            android:id="@+id/iv_my_header"
+            android:layout_width="60dip"
+            android:layout_height="60dip"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:layout_toLeftOf="@+id/iv_goo"
+             />
+
+        <TextView
+            android:id="@+id/tv_my_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="13dp"
+            android:gravity="center_vertical"
+            android:text="头像"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:id="@+id/iv_goo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/p_nickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="15.5dp"
+        android:background="@drawable/content_bg"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/min_height">
+
+
+        <TextView
+            android:id="@+id/nick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp"
+            android:gravity="center_vertical"
+            android:text="昵称"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_my_nick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:singleLine="true"
+            android:layout_marginRight="@dimen/phone_top"
+            android:ellipsize="end"
+            android:layout_toLeftOf="@+id/iv_go"
+            android:layout_toRightOf="@+id/nick"
+            android:gravity="center_vertical|right"
+            android:textColor="#666666"
+            android:textSize="13sp"
+            tools:text="17600606588" />
+
+        <ImageView
+            android:id="@+id/iv_go"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <RelativeLayout
+        android:id="@+id/p_sign"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/content_bg"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/min_height">
+
+
+        <TextView
+            android:id="@+id/sign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp"
+            android:gravity="center_vertical"
+            android:text="签名"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_my_sign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="@dimen/phone_top"
+            android:layout_toLeftOf="@+id/iv_go2"
+            android:layout_toRightOf="@+id/sign"
+            android:gravity="center_vertical|right"
+            android:maxLength="30"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:textColor="#666666"
+            android:textSize="13sp"
+            tools:text="17600606588" />
+
+        <ImageView
+            android:id="@+id/iv_go2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/p_sex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="15.5dp"
+        android:background="@drawable/content_bg"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/min_height">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp"
+            android:gravity="center_vertical"
+            android:text="性别"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_my_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/phone_top"
+            android:layout_toLeftOf="@+id/iv_go3"
+            android:gravity="center_vertical"
+            android:textColor="#666666"
+            android:textSize="13sp"
+            tools:text="17600606588" />
+
+        <ImageView
+            android:id="@+id/iv_go3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <RelativeLayout
+        android:id="@+id/p_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/content_bg"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/min_height">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp"
+            android:gravity="center_vertical"
+            android:text="年龄"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_my_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/phone_top"
+            android:layout_toLeftOf="@+id/iv_go4"
+            android:gravity="center_vertical"
+            android:textColor="#666666"
+            android:textSize="13sp"
+            tools:text="17600606588" />
+
+        <ImageView
+            android:id="@+id/iv_go4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+
+    <com.yuntongxun.ecdemo.common.view.SettingItem
+        android:id="@+id/info_msg_notify"
+        style="@style/settings_item_layout_single"
+        android:layout_marginTop="15dp"
+        android:background="@color/white"
+        ecdemo:item_accessoryType="switchbutton"
+        android:visibility="gone"
+        ecdemo:item_showDivider="true"
+        ecdemo:item_titleText="添加我为好友时是否需要确认" />
+
+
+</LinearLayout>

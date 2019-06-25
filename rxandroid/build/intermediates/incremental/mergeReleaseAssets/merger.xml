@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/rxandroid/src/main/assets"/><source path="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/rxandroid/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/rxandroid/src/release/assets"/></dataSet></merger>

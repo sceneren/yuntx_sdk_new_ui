@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yuntongxun.ecdemo.common.view.SwipeMenuLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/sml"
+    android:layout_height="60dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingLeft="12dp"
+        android:paddingRight="14dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_gag_avatar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/memer_bg"
+                android:gravity="center"
+                android:textColor="#ffffff"
+                android:textSize="13sp"
+                tools:text="枫" />
+
+            <ImageView
+                android:id="@+id/iv_avatar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="centerCrop"/>
+
+
+
+            <TextView
+                android:id="@+id/tv_gag_member_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:ellipsize="end"
+                android:gravity="center_horizontal"
+                android:singleLine="true"
+                android:text="杜洋"
+                android:textColor="#333333"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <include layout="@layout/include_black_line" />
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/tv_del"
+        android:layout_width="85dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="取消管理员"
+        android:background="@drawable/red_rect_bg"
+        android:textSize="16sp"
+        android:textColor="#ffffff" />
+
+
+</com.yuntongxun.ecdemo.common.view.SwipeMenuLayout>

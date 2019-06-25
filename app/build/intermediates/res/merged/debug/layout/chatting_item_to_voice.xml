@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ChattingUIContent">
+
+
+    <include
+        android:id="@+id/chatting_avatar_mask"
+        style="@style/ChattingUIAvatarMaskTo"
+        layout="@layout/chatting_item_avatar_to"
+        android:layout_alignParentRight="true" />
+
+
+    <TextView
+        android:id="@+id/chatting_user_tv"
+        style="@style/ChattingUISenderText"
+        android:layout_alignTop="@+id/chatting_avatar_mask"
+        android:layout_toLeftOf="@+id/chatting_avatar_mask"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:id="@+id/chatting_voice_sending_bg"
+        android:layout_width="80.0dip"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/chatting_user_tv"
+        android:layout_toLeftOf="@+id/chatting_avatar_mask"
+        android:background="@drawable/chatto_bg" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/chatting_voice_sending_bg"
+        android:layout_alignTop="@+id/chatting_voice_sending_bg"
+        android:layout_toLeftOf="@+id/chatting_voice_sending_bg"
+        android:gravity="center_vertical">
+
+
+        <ProgressBar
+            android:id="@+id/chatting_voice_sending"
+            style="@style/smallCustomProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:id="@+id/chatting_voice_play_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@drawable/chatto_bg"
+        android:gravity="right"
+        android:layout_below="@+id/chatting_voice_sending_bg"
+        android:layout_toLeftOf="@+id/chatting_avatar_mask"
+        android:layout_toStartOf="@+id/chatting_avatar_mask">
+
+
+
+        <TextView
+            android:id="@+id/chatting_voice_play_anim_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:paddingRight="15dp"
+            android:drawableRight="@drawable/yuyin2"
+            android:minHeight="@dimen/ChattingContentMinHeight" />
+
+        <com.yuntongxun.ecdemo.ui.chatting.view.CCPAnimImageView
+            android:id="@+id/chatting_voice_anim"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:minHeight="@dimen/ChattingContentMinHeight"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/chatting_content_itv"
+            style="@style/ChattingUIVoiceLength"
+            android:layout_gravity="center_vertical"
+            android:textColor="#333333"
+            android:paddingLeft="16.5dp"
+            android:textSize="16sp"
+            tools:text="50" />
+
+    </FrameLayout>
+
+
+    <TextView
+        android:id="@+id/tv_read_unread"
+        style="@style/chating_read_state"
+        android:layout_alignLeft="@+id/chatting_voice_play_content"
+        android:layout_alignRight="@+id/chatting_voice_play_content"
+        android:layout_below="@+id/chatting_voice_play_content"
+        android:gravity="center"
+        tools:text="对方已读" />
+
+
+    <ImageView
+        android:id="@+id/chatting_state_iv"
+        style="@style/ChattingUIState"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/chatting_voice_play_content" />
+
+
+</RelativeLayout>

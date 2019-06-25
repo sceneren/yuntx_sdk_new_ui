@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/navpage"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/big"
+        android:id="@+id/phone_top"
+        android:layout_height="wrap_content" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/smallleft"
+        android:id="@+id/ll_bu"
+        android:weightSum="2"
+        android:layout_below="@id/phone_top"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="14sp"
+            android:textColor="#3a87f2"
+            android:clickable="true"
+            android:id="@+id/bu_login"
+            android:layout_gravity="center"
+            android:text="登录"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:id="@+id/bu_register"
+            android:textSize="14sp"
+            android:textColor="#5596f2"
+            android:gravity="center"
+            android:text="注册"
+            android:layout_gravity="center"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+m
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/phone_panel"
+        android:layout_below="@id/ll_bu"
+        android:layout_height="match_parent">
+    </LinearLayout>
+
+
+
+</RelativeLayout>

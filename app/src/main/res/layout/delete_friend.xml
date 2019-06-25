@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/main_bg"
+    android:layout_height="match_parent">
+
+
+    <include layout="@layout/include_toolbar" />
+
+
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/phone_top"
+        android:id="@+id/bu_delete"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginLeft="@dimen/phone_top"
+        android:layout_marginRight="@dimen/phone_top"
+        android:background="#f88dbb"
+        android:textSize="17sp"
+        android:textColor="#333333"
+        android:maxHeight="44dip"
+        android:text="删除好友"
+        android:layout_height="44dip" />
+
+
+
+</RelativeLayout>

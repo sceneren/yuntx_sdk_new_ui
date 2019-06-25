@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+
+   Use of this source code is governed by a Beijing yuntongxun Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+
+    				http://www.yuntongxun.com
+
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f4f8">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.yuntongxun.ecsdk.voip.video.ECCaptureView
+
+            android:id="@+id/captureView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView
+            android:id="@+id/mainsurfaceview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView>
+
+
+    </FrameLayout>
+
+    <!--<com.yuntongxun.ecsdk.voip.video.ECOpenGlView-->
+    <!--android:id="@+id/glview"-->
+    <!--android:layout_width="188dp"-->
+    <!--android:layout_height="188dp" />-->
+
+    <include
+        layout="@layout/layout_bottom_control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/fl_title"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp">
+
+            <ImageView
+                android:id="@+id/iv_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|left"
+                android:layout_marginLeft="42dp"
+                android:src="@drawable/suoxiao" />
+
+            <TextView
+                android:id="@+id/tv_right"
+                android:layout_width="110dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="24dp"
+                android:background="@drawable/btn_red_bg"
+                android:gravity="center"
+                android:text="解散房间"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+        </FrameLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="12dp"
+                android:paddingLeft="12dp">
+
+                <TextView
+                    android:id="@+id/tv_note"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8.5dp"
+                    android:layout_toRightOf="@+id/tv_creat"
+                    android:text="主持人： 我"
+                    android:textSize="17sp"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_note"
+                    android:layout_below="@+id/tv_note"
+                    android:layout_marginTop="12dp"
+                    android:text="房间名称：云通讯会议"
+                    android:textSize="14sp"
+                    android:textColor="#ffffff" />
+
+
+                <TextView
+                    android:id="@+id/tv_time_tag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="30dp"
+                    android:gravity="center_horizontal"
+                    android:text="会议计时"
+                    android:textColor="#ffffff"
+                    android:textSize="12sp" />
+
+                <Chronometer
+                    android:id="@+id/chronometer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_time_tag"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/tv_time_tag"
+                    android:layout_marginTop="12dp"
+                    android:text="20：35"
+                    android:textColor="#ffffff"
+                    android:textSize="17sp" />
+
+            </RelativeLayout>
+
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_member"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_marginLeft="15dp"
+                android:visibility="visible"></android.support.v7.widget.RecyclerView>
+
+
+            <LinearLayout
+                android:id="@+id/video_remote_windows"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
+

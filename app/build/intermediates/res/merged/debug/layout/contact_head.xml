@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_head"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">\
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/tv_head_newfriend"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/NormalListHeight"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="12dp"
+            android:background="@drawable/list_item_selector"
+            android:drawableLeft="@drawable/addressbook_icon_newfriend"
+            android:drawablePadding="12dp"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="@string/new_frend"/>
+
+
+        <TextView
+            android:id="@+id/tv_friend_num"
+            style="@style/UnreadCountTipsStyle"
+            android:layout_alignParentRight="true"
+
+            android:layout_centerVertical="true"
+            android:layout_marginRight="50dip"
+            android:visibility="invisible"/>
+
+
+    </RelativeLayout>
+
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <TextView
+        android:id="@+id/tv_head_group"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/NormalListHeight"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/list_item_selector"
+        android:drawableLeft="@drawable/addressbook_icon_qunzu"
+        android:drawablePadding="12dp"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:text="@string/group" />
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <TextView
+        android:id="@+id/tv_head_discussion"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/NormalListHeight"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/list_item_selector"
+        android:drawableLeft="@drawable/addressbook_icon_taolunzu"
+        android:drawablePadding="12dp"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:text="@string/discussion" />
+
+    <TextView
+        android:id="@+id/tv_head_file_assistant"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/NormalListHeight"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/list_item_selector"
+        android:drawableLeft="@drawable/filea"
+        android:drawablePadding="12dp"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:text="@string/file_assistant" />
+
+
+</LinearLayout>

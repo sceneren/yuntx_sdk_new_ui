@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f4f8"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/head"
+        android:visibility="gone"
+        layout="@layout/ccp_title" />
+
+
+    <ListView
+        android:id="@+id/video_conferenc_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="2.0px"
+        android:fadingEdgeLength="0.0dip"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="none"
+        android:background="@color/white"
+        android:scrollingCache="false" />
+
+    <LinearLayout
+        android:id="@+id/ll_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="visible"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/qunzu_icon_quesheng" />
+
+        <TextView
+            android:id="@+id/tv_empty_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20.5dp"
+            android:gravity="center_horizontal"
+            android:text="您还没有创建和加入任何视频会议，点击\n右上角+号按钮创建"
+            android:textColor="#999999"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

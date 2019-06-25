@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="redpacket-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/alipaySdk-20160516.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/fastjson-1.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/volley-1.0.19.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/redpacket3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/glide-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

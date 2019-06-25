@@ -1,0 +1,74 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:lang="http://www.springframework.org/schema/lang"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee.xsd
+		http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+	<bean id="baseJdbcDao" class="com.yuntongxun.mcm.core.dao.impl.BaseJdbcDaoImpl">
+		<property name="jdbcTemplate" ref="jdbcTemplate" />
+	</bean>
+	
+	<bean id="baseRedisDao" class="com.yuntongxun.mcm.core.dao.impl.BaseRedisDaoImpl">
+		<property name="redisTemplate1" ref="redisTemplate1" />
+		<property name="jedisPool" ref="jedisPool" />
+	</bean>
+	
+	<!-- <bean id="baseCassandraDao" class="com.yuntongxun.mcm.core.dao.impl.BaseCassandraDaoImpl" init-method="init" destroy-method="destroy">
+		<property name="keyspace" value="${cassandra.keyspace.name}" />
+		<property name="seedNode" value="${cassandra.seed.ip}" />  single dc seed node
+		<property name="username" value="${cassandra.username}" /> 
+		<property name="password" value="${cassandra.password}" />  
+	</bean> -->
+	
+	<bean id="versionDao" class="com.yuntongxun.mcm.dao.impl.VersionDaoImpl">
+		<property name="baseRedisDao" ref="baseRedisDao" />
+	</bean>
+	
+	<!-- <bean id="mcmCassandraDaoImpl" class="com.yuntongxun.mcm.mcm.dao.impl.MCMCassandraDaoImpl" init-method="init">
+		<property name="baseCassandraDao" ref="baseCassandraDao" />
+	</bean> -->
+	
+	<bean id="mcmRedisDaoImpl" class="com.yuntongxun.mcm.mcm.dao.impl.MCMRedisDaoImpl">
+		<property name="baseRedisDao" ref="baseRedisDao" />
+	</bean>
+	
+	<bean id="mcmDao" class="com.yuntongxun.mcm.mcm.dao.impl.MCMDaoImpl" init-method="init">
+		<!-- <property name="mcmCassandraDao" ref="mcmCassandraDaoImpl" /> -->
+		<property name="mcmRedisDao" ref="mcmRedisDaoImpl" />
+		<property name="writeSequence" value="${mcm.message.writeSequence}" />
+	</bean>
+	
+	<bean id="appRedisDao" class="com.yuntongxun.mcm.dao.impl.AppRedisDaoImpl" >
+		<property name="baseRedisDao" ref="baseRedisDao" />
+		<property name="appAttrsCache" ref="appAttrsCache" />
+	</bean>
+	
+	<bean id="userRedisDao" class="com.yuntongxun.mcm.dao.impl.UserRedisDaoImpl" >
+		<property name="baseRedisDao" ref="baseRedisDao" />
+	</bean>
+	
+	<bean id="userAgentDialogRedisDao" class="com.yuntongxun.mcm.mcm.dao.impl.UserAgentDialogRedisDaoImpl" >
+		<property name="baseRedisDao" ref="baseRedisDao" />
+	</bean>
+	
+	<bean id="m3csMessageHistoryDao" class="com.yuntongxun.mcm.mcm.dao.impl.M3CSMessageHistoryDaoImpl" >
+		<property name="baseJdbcDao" ref="baseJdbcDao" />
+	</bean>
+	
+	<bean id="messageRedisDao" class="com.yuntongxun.mcm.dao.impl.MessageRedisDaoImpl" >
+		<property name="baseRedisDao" ref="baseRedisDao" />
+	</bean>
+	
+</beans>

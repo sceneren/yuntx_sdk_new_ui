@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:ecdemo="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f1f4f8"
+              android:orientation="vertical">
+
+
+    <include layout="@layout/include_toolbar"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/sv_rot"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:paddingLeft="15dp"
+        android:layout_marginTop="20dip"
+        android:drawableLeft="@drawable/robot"
+        android:drawablePadding="20dip"
+        android:text="晓雪机器人"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingLeft="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#333333"
+            android:letterSpacing="-0.02"
+            android:lineSpacingExtra="21sp"
+            android:gravity="end"
+            android:text="功能介绍:"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:textSize="15sp"
+            android:textColor="#666666"
+            android:letterSpacing="-0.02"
+            android:lineSpacingExtra="8sp"
+            android:text="嗨~主人，我是您的智能助理晓雪宝宝~
+    您可以直接向我提问任何您想问的问题。我可以为您
+提供天气查询、讲笑话、闲聊等服务哦！快来跟我聊
+聊吧，您可以直接输入文字或者发语音和表情跟我交
+流哦！"
+            />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+     Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+     that can be found in the LICENSE file in the root of the web site.
+ 
+     http://www.yuntongxun.com
+ 
+     An additional intellectual property rights grant can be found
+     in the file PATENTS.  All contributing project authors may
+     be found in the AUTHORS file in the root of the source tree.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ecdemo="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/info_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_toolbar" />
+
+    <ScrollView
+        style="@style/NavPage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/main_bg"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/info_count"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <com.yuntongxun.ecdemo.common.view.WrapGridView
+                android:id="@+id/gv_member"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:horizontalSpacing="10dp"
+                android:numColumns="6"
+                android:padding="12dp"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="10dp" />
+
+            <!--群名-->
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <include layout="@layout/include_black_line" />
+
+            <!--二维码-->
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/qr"
+
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <include layout="@layout/include_black_line" />
+
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/notice"
+
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <include layout="@layout/include_black_line" />
+
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/card"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <include layout="@layout/include_black_line" />
+
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/gag"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <include layout="@layout/include_black_line" />
+
+            <com.yuntongxun.ecdemo.common.view.InfoItem
+                android:id="@+id/set_manager"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:background="@color/white"></com.yuntongxun.ecdemo.common.view.InfoItem>
+
+            <com.yuntongxun.ecdemo.common.view.SettingItem
+                android:id="@+id/info_msg_notify"
+                style="@style/settings_item_layout_single"
+                android:layout_marginTop="15dp"
+                android:background="@color/white"
+                ecdemo:item_accessoryType="switchbutton"
+                ecdemo:item_showDivider="true"
+                ecdemo:item_titleText="@string/settings_new_msg_notify" />
+
+
+            <com.yuntongxun.ecdemo.common.view.SettingItem
+                android:id="@+id/info_msg_push"
+                style="@style/settings_item_layout_single"
+                android:background="@color/white"
+                android:visibility="gone"
+                ecdemo:item_accessoryType="switchbutton"
+                ecdemo:item_showDivider="true"
+                ecdemo:item_titleText="消息推送" />
+
+            <com.yuntongxun.ecdemo.common.view.SettingItem
+                android:id="@+id/info_trans_owner"
+                style="@style/settings_item_layout_single"
+                android:layout_marginTop="15dp"
+                android:background="@color/white"
+                ecdemo:item_showDivider="true"
+                ecdemo:item_titleText="@string/str_group_trans_owner" />
+
+            <com.yuntongxun.ecdemo.common.view.SettingItem
+                android:id="@+id/info_dissolve"
+                style="@style/settings_item_layout_single"
+                android:background="@color/white"
+                ecdemo:item_showDivider="true"
+                ecdemo:item_titleText="@string/str_group_dissolution" />
+
+            <com.yuntongxun.ecdemo.common.view.SettingItem
+                android:id="@+id/clear_msg"
+                style="@style/settings_item_layout_single"
+                android:layout_marginTop="15dp"
+                android:background="@color/white"
+                ecdemo:item_showDivider="true"
+                ecdemo:item_titleText="@string/clear_chat" />
+
+            <Button
+                android:id="@+id/btn_group_quit"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_marginBottom="32.5dp"
+                android:layout_marginTop="52dp"
+                android:background="@color/white"
+                android:gravity="center"
+                android:text="@string/quiet_group"
+                android:textColor="#ff645c" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

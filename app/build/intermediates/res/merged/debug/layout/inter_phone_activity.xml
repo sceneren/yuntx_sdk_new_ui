@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f1f4f8"
+        android:orientation="vertical">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp">
+
+        <ImageView
+            android:id="@+id/iv_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="42dp"
+            android:layout_gravity="center_vertical|left"
+            android:src="@drawable/suoxiao" />
+
+        <TextView
+            android:id="@+id/tv_right"
+            android:layout_width="110dp"
+            android:layout_height="28dp"
+            android:text="退出"
+            android:layout_marginRight="24dp"
+            android:gravity="center"
+            android:layout_gravity="center_vertical|right"
+            android:background="@drawable/btn_red_bg" />
+
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/tv_avator"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/memer_bg"
+            android:gravity="center"
+            android:text="ceshi"
+            tools:text = "mgng"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8.5dp"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_vertical"
+            android:letterSpacing="0.06"
+            android:lineSpacingExtra="27sp"
+            android:text="对讲发起人： 我"
+            android:textColor="#333333"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="#768893"
+        android:letterSpacing="0.06"
+        android:lineSpacingExtra="31sp"
+        android:paddingLeft="25dp"
+        android:gravity="center_horizontal"
+        android:text="对讲发起"
+        />
+
+    <com.yuntongxun.ecdemo.common.view.WrapListview
+        android:id="@+id/inter_phone_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#f1f4f8"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@null"
+        android:dividerHeight="2.0px"
+        android:fadingEdgeLength="0.0dip"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:listSelector="@android:color/transparent"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        android:scrollingCache="false"
+        android:visibility="visible" />
+
+
+    <com.yuntongxun.ecdemo.common.view.WrapGridView
+        android:id="@+id/gv_inter_icon"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:numColumns="4"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:padding="7dp"
+        android:stretchMode="columnWidth"
+        android:visibility="visible"></com.yuntongxun.ecdemo.common.view.WrapGridView>
+
+
+    <include
+        android:id="@+id/inter_phone_speak_ly"
+        layout="@layout/inter_phone_mic_control"/>
+
+    </LinearLayout>
+
+</ScrollView>

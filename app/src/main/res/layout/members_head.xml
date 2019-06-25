@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_head"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_manager_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:letterSpacing="0.06"
+        android:background="#f1f4f8"
+        android:lineSpacingExtra="31sp"
+        android:paddingBottom="7dp"
+        android:paddingTop="7dp"
+        android:textColor="#999999"
+        android:paddingLeft="12dp"
+        android:textSize="13sp"
+        tools:text="群主、管理员（2人）" />
+
+    <com.yuntongxun.ecdemo.common.view.WrapListview
+        android:id="@+id/lv_manager"
+        style="@style/CCPList"
+        android:paddingLeft="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.yuntongxun.ecdemo.common.view.WrapListview>
+
+</LinearLayout>

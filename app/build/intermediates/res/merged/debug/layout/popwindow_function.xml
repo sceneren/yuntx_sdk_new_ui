@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pop_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_pop_chat"
+        android:background="@drawable/pop_top_sel"
+        android:drawableLeft="@drawable/message_btn_startchat"
+        android:text="发起群聊"
+        style="@style/conversation_pop" />
+
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:background="@android:color/holo_blue_dark" />-->
+
+    <TextView
+        android:id="@+id/tv_pop_add"
+        android:background="@drawable/pop_mid_sel"
+        android:drawableLeft="@drawable/message_btn_addfriend"
+        android:text="添加联系人"
+        style="@style/conversation_pop" />
+
+    <!-- <View
+         android:layout_width="match_parent"
+         android:layout_height="1dp"
+         android:background="@android:color/holo_blue_dark" />-->
+
+    <TextView
+        android:id="@+id/tv_pop_scan"
+        android:background="@drawable/pop_btm_sel"
+        android:drawableLeft="@drawable/message_btn_saoyisao"
+        android:text="扫一扫   "
+        style="@style/conversation_pop" />
+
+</LinearLayout>

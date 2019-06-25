@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bqmm-">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/jars/libs/bqmm_v1.7.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

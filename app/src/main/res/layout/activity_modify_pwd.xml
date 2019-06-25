@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/navpage"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <include layout="@layout/include_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll_top"
+        android:layout_alignParentTop="true"
+        />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_below="@+id/ll_top"
+        android:background="@drawable/big"
+        android:id="@+id/phone_top"
+        android:layout_height="wrap_content" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/forgertpassword"
+        android:id="@+id/ll_bu"
+        android:layout_below="@id/phone_top"
+        android:layout_height="38dip">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="14sp"
+            android:textColor="#3a87f2"
+            android:clickable="true"
+            android:id="@+id/bu_login"
+            android:layout_gravity="center"
+            android:text="忘记密码"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/phone_panel"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true">
+    </LinearLayout>
+
+
+
+</RelativeLayout>

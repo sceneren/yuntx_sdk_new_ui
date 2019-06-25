@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/490a5b7da9700cece786bd64b839323b3325833f/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_8a68dfe8a563df92b20fef4e0778838de05fc7c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8587288dcbe87b6ce7ce70ad6646c400004b154d">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_crash_release_86ac9f0d58eca427bed6be178110528b887eefb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_7733eb506e268f21873fb79dfb09de67f6ac9f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/ShareSDK-Wechat-Core-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="925c0b32df7cfb1256002f7b0f861ff7c02617b7">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.7.0_c1cacfac9d73e65674e8ee63f39bc96df46f8b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.1.2_0a598aa723e7e76332a076bd1c777bf0efababae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/alipaySdk-20160516.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="504e8446546c9713301cf8831a02ae867c340bf3">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/alipaySdk-20160516_687d2f12e940720fef3c3343bac0aa0a55202f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_009f1bd59b02e111e1c0441c78a3902ab6c59a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_c07f5da13e15055e37edf4bf9fa5a2bbde421eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/12a00cfe730d2ef10e0e8bce3dce1b3246836cca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="491abe255c994dd7f20722d81be00062e81def96">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea96017ec5a664847e643c7b15e947af6074860e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Library/Android/sdk/platform-tools/api/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_7aa80d785f330a9e35ba9dd92d04b6df313fe900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/75bcb4771a849bb3378b6c82410e2452e9732f04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea26e8b15ccb806c8a3e5ff7a1e56fa46de99bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/af0b9f9100046cbbfb0a3ba411c5adb887c1085d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_200bba6b65beb436e50d2f8aa871c350cd9178af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/fastjson-1.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8299ae7ab4973911cdcf723fa4543939dbaa1e30">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.5_4de5dd4e9b3a9d43500d08751a48fc0cfe525c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/YTX_Android_Full_SDK_v5.4.1r.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="242f24c5e5e9f180d41620eb6be2068b0db88d55">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/YTX_Android_Full_SDK_v5.4.1r_f0fdef9cb44bb033a64237254321b474baa41601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_b79f14c8170af6665e5b16e8dd7120c78d967c3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/MobCommons-2016.0301.1053.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ac79e45bfe01ce2bac0a1d1ead2aba2524f4c8b">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.0301.1053_5b784901a211f1cb021241df449ef65d25a63350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/ShareSDK-Core-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89e252feaeae2a7baa6b5e1ac4e3fc1d4c4e70d1">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.7.0_d8722a5894b743c7a9c427f2cf0b1ca8f0e270c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/MiPush_SDK_Client_2_2_21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b951c52fa0994d508f5514292fbe040ea4a3b8e8">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/MiPush_SDK_Client_2_2_21_415cc7804c6e2f7f4587ccaef0de4a967264ca99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/MobTools-2016.0301.1053.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe9bb68bf9983f6fd4882e89ea11bf6f2bbb1ded">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.0301.1053_2bee1635feb3e1c3bc896bdceff1dd83e340ee64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27ed2dd9e2dcc2f17b894f0b60b9e69cb2242bdc">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_d039cdf35f87d86f6affe6a634829fb062a12531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_e8c0eeb1d07fab2defd2a259cd1d182a11bc6afd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_d3e311fed52227c9b4eb4ca39b053371b49bed44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/HwPush_SDK_NOMAP_V2705.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13096d77653cc8767295496e4615b760a6646b57">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/HwPush_SDK_NOMAP_V2705_3265bebbfaa462bfd0f1b81c2276309e9dc4a40f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="323e422f40574acf324f541bc7fa85fc9b5c670f">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_cd2d908cab919937b441b41a9773a74c82789c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/jsoup-1.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.7.1_dbd262b116154d3334a5cf734e32940afad9aeb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/d4ef873605bfc3570c176f91d705fb4c0d1c0e26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e585446a16ba99ba99483dbe1ac1559028d1df54">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f174df1a0bb2d6bf7b29ad0238600821a75ecc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="830f4002357ae84a97b954f42ede8949e33c75aa">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f79f9db7817fbf02a67d08f23c4fc1fec3956fe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_1f89ec82c46e9af06fb8013cb6d1d6f533e32f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_a34895014a476af632c445e30b60e89945ec2a14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_2d630eb6d112444fe1bceeeca92bd555837a27ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_c00e37f83a1995fd0212afb1033bdf620d135ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_f5ff94222b12de97e00adff672382f83530f844a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/bugly_crash_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8587288dcbe87b6ce7ce70ad6646c400004b154d">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_crash_release_86ac9f0d58eca427bed6be178110528b887eefb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/HwPush_SDK_NOMAP_V2705.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13096d77653cc8767295496e4615b760a6646b57">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/HwPush_SDK_NOMAP_V2705_3265bebbfaa462bfd0f1b81c2276309e9dc4a40f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_c07f5da13e15055e37edf4bf9fa5a2bbde421eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/490a5b7da9700cece786bd64b839323b3325833f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fa05d5bc2841e1f0fb9a9ea8e2b29e6fae9636a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_7733eb506e268f21873fb79dfb09de67f6ac9f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_b97111a01cbe31f45a697a299b84bfbe90d28cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_e8c0eeb1d07fab2defd2a259cd1d182a11bc6afd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23da987e002daa1be2a8edac4d91ae9b016af5e5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_8340c6dff431fff36d7d45500911ebc1f42103ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/core-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7262c17837917207978c622b1ad62c4532d9d9">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.1.0_999300665ecc9f04600d73293ca543db0975b763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/ShareSDK-Wechat-Moments-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfe0a575c3b6c39e2e4b3a74f1bac84b618cca0">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.7.0_84f9a0f1a54b8513edc76fc23508bbc272a48b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/volley-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="333ddeffd225f0ab803145cda34611b07a0d8530">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/volley-1.0.19_e18b5cf18fc55b50d41b268d182bbab580ddf0bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/75bcb4771a849bb3378b6c82410e2452e9732f04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea26e8b15ccb806c8a3e5ff7a1e56fa46de99bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f99be3cfcf400b62a473775bbb7fac5dacde593">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d029af16eaf97b3954f529ef561f1b582ae42fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/ShareSDK-Wechat-Core-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="925c0b32df7cfb1256002f7b0f861ff7c02617b7">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.7.0_c1cacfac9d73e65674e8ee63f39bc96df46f8b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/adapter-rxjava2-2.3.0_34fafc669500168a23e8a69ab7b05aae4a7c1a07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/redpacket3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c76d36fdaa899aa00417a88b3dfa94e4d4b92815">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/redpacket3.1.0_bf0df3062a14396083e114468815dd017b1b78c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/12a00cfe730d2ef10e0e8bce3dce1b3246836cca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="491abe255c994dd7f20722d81be00062e81def96">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea96017ec5a664847e643c7b15e947af6074860e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/490a5b7da9700cece786bd64b839323b3325833f/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_8a68dfe8a563df92b20fef4e0778838de05fc7c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/jars/libs/bqmm_v1.7.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acce90b8149977f92bdbd128d796b35139100dea">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/bqmm_v1.7.13_60876e3bde22affb438291181e080ffeef029c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/MobCommons-2016.0301.1053.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ac79e45bfe01ce2bac0a1d1ead2aba2524f4c8b">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.0301.1053_5b784901a211f1cb021241df449ef65d25a63350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/ShareSDK-Core-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89e252feaeae2a7baa6b5e1ac4e3fc1d4c4e70d1">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.7.0_d8722a5894b743c7a9c427f2cf0b1ca8f0e270c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_a61c6e44dc0b227485e9dc46efcc464b85f63a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/MiPush_SDK_Client_2_2_21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b951c52fa0994d508f5514292fbe040ea4a3b8e8">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/MiPush_SDK_Client_2_2_21_415cc7804c6e2f7f4587ccaef0de4a967264ca99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f99be3cfcf400b62a473775bbb7fac5dacde593">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d029af16eaf97b3954f529ef561f1b582ae42fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/rxandroid/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="313499e7872a9dc593b90060700fd600192c2996">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_a16ba62581c40af88e8271e898986bb5f41d05f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/volley-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="333ddeffd225f0ab803145cda34611b07a0d8530">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/volley-1.0.19_e18b5cf18fc55b50d41b268d182bbab580ddf0bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_31cd4d757f68cb3ed20c265bfa98c58dc97b9fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_009f1bd59b02e111e1c0441c78a3902ab6c59a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/MobTools-2016.0301.1053.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe9bb68bf9983f6fd4882e89ea11bf6f2bbb1ded">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.0301.1053_2bee1635feb3e1c3bc896bdceff1dd83e340ee64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/jsoup-1.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.7.1_dbd262b116154d3334a5cf734e32940afad9aeb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/YTX_Android_Full_SDK_v5.4.1r.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="242f24c5e5e9f180d41620eb6be2068b0db88d55">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/YTX_Android_Full_SDK_v5.4.1r_f0fdef9cb44bb033a64237254321b474baa41601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/ShareSDK-Wechat-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77370e7e49ebe4ae5b9c32e07424235a59f9e12c">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.7.0_9bd632a2ca3ac285e30728925e824675f331114c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="323e422f40574acf324f541bc7fa85fc9b5c670f">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_cd2d908cab919937b441b41a9773a74c82789c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/490a5b7da9700cece786bd64b839323b3325833f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fa05d5bc2841e1f0fb9a9ea8e2b29e6fae9636a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_d3e311fed52227c9b4eb4ca39b053371b49bed44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/jars/libs/fastjson-1.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8299ae7ab4973911cdcf723fa4543939dbaa1e30">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.5_4de5dd4e9b3a9d43500d08751a48fc0cfe525c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/792539ebb592dd53856479381ca3a0437c865438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f19ff7fdca4e98041155a1a98b20ba850486a4a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_f5ff94222b12de97e00adff672382f83530f844a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_2d630eb6d112444fe1bceeeca92bd555837a27ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/tbs_sdk_thirdapp_v3.2.0.1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e58a5f3e98fddc1752eb23c37db5e4b8fc174fe3">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/tbs_sdk_thirdapp_v3.2.0.1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346_24ca1634ebf5d7849669f896e4b2cba5c33eac7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/.android/build-cache/d4ef873605bfc3570c176f91d705fb4c0d1c0e26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e585446a16ba99ba99483dbe1ac1559028d1df54">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f174df1a0bb2d6bf7b29ad0238600821a75ecc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_c00e37f83a1995fd0212afb1033bdf620d135ff0/classes.dex" />
+    </item>
+
+</items>

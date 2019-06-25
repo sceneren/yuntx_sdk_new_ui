@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing yuntongxun Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f4f8"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/fl_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentTop="true"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp">
+
+        <ImageView
+            android:id="@+id/iv_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="42dp"
+            android:src="@drawable/suoxiao" />
+
+        <TextView
+            android:id="@+id/tv_right"
+            android:layout_width="110dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="24dp"
+            android:background="@drawable/btn_red_bg"
+            android:gravity="center"
+            android:text="解散房间" />
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/fl_title"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        android:scrollbars="none"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="12dp">
+
+                <TextView
+                    android:id="@+id/tv_creat"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/memer_bg"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_note"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8.5dp"
+                    android:layout_toRightOf="@+id/tv_creat"
+                    android:letterSpacing="0.06"
+                    android:lineSpacingExtra="27sp"
+                    android:text="主持人： 我"
+                    android:textColor="#333333"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_note"
+                    android:layout_below="@+id/tv_note"
+                    android:layout_marginTop="15dp"
+                    android:text="房间名称：云通讯会议"
+                    android:textColor="#666666"
+                    android:textSize="14sp" />
+
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="25dp"
+                    android:text="会议发起"
+                    android:textColor="#768893"
+                    android:textSize="13sp" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"></Space>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="12dp"
+                    android:gravity="center_horizontal"
+                    android:text="会议计时"
+                    android:textColor="#768893"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp">
+
+                <ListView
+                    android:id="@+id/inter_phone_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="100dp"
+                    android:background="#f1f4f8"
+                    android:cacheColorHint="@android:color/transparent"
+                    android:divider="@null"
+                    android:dividerHeight="2.0px"
+                    android:fadingEdgeLength="0.0dip"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:listSelector="@android:color/transparent"
+                    android:scrollbarStyle="outsideOverlay"
+                    android:scrollbars="vertical"
+                    android:scrollingCache="false"
+                    android:visibility="visible" />
+
+
+                <Chronometer
+                    android:id="@+id/tv_countdown_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="12dp"
+                    android:layout_marginTop="15dp"
+                    android:text="20：35"
+                    android:textColor="#666666"
+                    android:textSize="17sp" />
+
+
+            </FrameLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/gv_inter_icon"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginLeft="15dp"
+                android:visibility="visible"></android.support.v7.widget.RecyclerView>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <include
+        layout="@layout/layout_bottom_control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="37dp"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>
+

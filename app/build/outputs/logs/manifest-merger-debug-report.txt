@@ -1,0 +1,1623 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:2:1-987:12
+	package
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:6:5-33
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:2:11-69
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:5:5-64
+uses-sdk
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:8:5-44
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/AndroidManifest.xml:20:5-43
+MERGED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [:bqmm:] /Users/scene/.android/build-cache/5b69daca64543ea672cf1c89d8b28e6c2249256f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:redpacket:] /Users/scene/.android/build-cache/c9a8c89479e1a414668b20bb9520373958e9032f/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.tencent.wcdb:wcdb-android:1.0.0] /Users/scene/.android/build-cache/d4ef873605bfc3570c176f91d705fb4c0d1c0e26/output/AndroidManifest.xml:7:5-9:41
+MERGED from [YTX_Android_Full_Demo_v5.4.1r:rxandroid:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/rxandroid/build/intermediates/bundles/default/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:multidex:1.0.0] /Users/scene/.android/build-cache/af0b9f9100046cbbfb0a3ba411c5adb887c1085d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.alibaba.android:vlayout:1.0.5] /Users/scene/.android/build-cache/12a00cfe730d2ef10e0e8bce3dce1b3246836cca/output/AndroidManifest.xml:31:5-33:41
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/scene/.android/build-cache/75bcb4771a849bb3378b6c82410e2452e9732f04/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/scene/.android/build-cache/490a5b7da9700cece786bd64b839323b3325833f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /Users/scene/.android/build-cache/792539ebb592dd53856479381ca3a0437c865438/output/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:8:15-41
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+permission#com.yuntongxun.eckuailiao.permission.RECEIVE_MSG
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:11:5-13:44
+	android:protectionLevel
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:13:9-41
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:12:9-72
+permission#com.yuntongxun.eckuailiao.permission.INCOMING_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:14:5-85
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:14:17-82
+uses-permission#com.yuntongxun.eckuailiao.permission.RECEIVE_MSG
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:16:22-85
+uses-permission#com.yuntongxun.eckuailiao.permission.INCOMING_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:18:5-90
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:18:22-87
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:20:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:22:22-66
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:24:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:27:5-94
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:27:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:29:5-67
+MERGED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:31:5-79
+MERGED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:31:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:33:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:35:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:37:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:39:5-75
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:39:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:41:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:43:5-71
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:43:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:45:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:47:5-68
+MERGED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:47:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:49:5-65
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:49:22-62
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:52:5-68
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:52:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:54:5-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:54:22-71
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:56:5-89
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:56:22-86
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:58:5-81
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:58:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:60:5-79
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:60:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:62:5-72
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:62:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:63:5-73
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:63:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:65:5-66
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:65:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:67:5-75
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:67:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:68:5-73
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:68:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:70:5-81
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:70:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:71:5-68
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:71:22-65
+uses-feature#android.hardware.camera
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:75:5-60
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:75:19-57
+uses-feature#android.hardware.autofocus
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:76:5-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:76:19-60
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:79:5-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:79:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:80:5-71
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:80:22-68
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:81:5-75
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:81:22-72
+permission#com.yuntongxun.eckuailiao.permission.MIPUSH_RECEIVE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:83:5-85:47
+	android:protectionLevel
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:85:9-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:84:9-75
+uses-permission#com.yuntongxun.eckuailiao.permission.MIPUSH_RECEIVE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:87:5-91
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:87:22-88
+uses-feature#android.hardware.location
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:90:5-92:36
+	android:required
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:92:9-33
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:91:9-49
+uses-feature#android.hardware.location.gps
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:93:5-95:36
+	android:required
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:95:9-33
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:94:9-53
+uses-feature#android.hardware.location.network
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:96:5-98:36
+	android:required
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:98:9-33
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:97:9-57
+application
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:101:5-985:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/scene/.android/build-cache/ef07ee3b74b71cfaf3db7e2e91975eccd10fcd6e/output/AndroidManifest.xml:22:5-20
+MERGED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:15:5-22:19
+MERGED from [com.android.support:support-v4:23.1.1] /Users/scene/.android/build-cache/490a5b7da9700cece786bd64b839323b3325833f/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:107:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:105:9-43
+	android:allowBackup
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:104:9-35
+	android:icon
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:106:9-49
+	android:largeHeap
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:108:9-33
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:109:9-45
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:102:9-38
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:111:9-113:64
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:113:13-61
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:112:13-52
+meta-data#com.yuntongxun.ecdemo.common.utils.AppGlideModule
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:115:9-116:42
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:116:13-40
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:115:20-84
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:119:9-128:20
+	android:authorities
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:121:13-64
+		INJECTED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:123:13-47
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:120:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:125:13-127:62
+	android:resource
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:127:17-60
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:126:17-67
+activity#com.yuntongxun.ecdemo.ui.phonemodel.PhoneUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:130:9-135:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:132:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:133:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:131:13-50
+activity#com.yuntongxun.ecdemo.ui.chatting.FileDisplayActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:136:9-141:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:138:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:139:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:137:13-60
+activity#com.yuntongxun.ecdemo.ui.account.SplashActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:149:9-159:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:151:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:153:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:152:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:150:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:154:13-158:29
+action#android.intent.action.MAIN
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:155:17-69
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:155:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:157:17-77
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:157:27-74
+activity#com.yuntongxun.ecdemo.ui.account.LoginActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:162:9-167:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:164:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:166:13-64
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:165:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:163:13-53
+activity#com.yuntongxun.ecdemo.ui.MainAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:169:9-173:55
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:171:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:173:13-52
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:172:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:170:13-39
+activity#com.yuntongxun.ecdemo.ui.phonemodel.ModifyPwdUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:174:9-178:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:177:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:178:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:176:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:175:13-54
+activity#com.yuntongxun.ecdemo.ui.account.ECSetUpServerActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:184:9-188:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:186:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:188:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:187:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:185:13-61
+activity#com.yuntongxun.ecdemo.ui.personcenter.SetInfoUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:189:9-193:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:191:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:193:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:192:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:190:13-54
+activity#com.yuntongxun.ecdemo.ui.chatting.ChattingActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:195:9-199:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:198:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:199:13-67
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:197:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:196:13-57
+activity#com.yuntongxun.ecdemo.ui.contact.ContactDetailActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:201:9-205:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:204:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:205:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:203:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:202:13-61
+activity#com.yuntongxun.ecdemo.ui.contact.MobileContactActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:207:9-211:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:210:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:211:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:209:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:208:13-61
+activity#com.yuntongxun.ecdemo.ui.chatting.ImagePreviewActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:214:9-219:64
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:217:13-37
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:218:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:216:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:219:13-61
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:215:13-61
+activity#com.yuntongxun.ecdemo.ui.chatting.VideoRecordActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:221:9-225:64
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:224:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:223:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:225:13-61
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:222:13-60
+activity#com.yuntongxun.ecdemo.ui.chatting.ImageGalleryActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:227:9-232:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:230:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:232:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:229:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:231:13-61
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:228:13-61
+activity#com.yuntongxun.ecdemo.ui.livechatroom.LiveChatUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:234:9-239:55
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:237:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:239:13-52
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:236:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:238:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:235:13-55
+activity#com.yuntongxun.ecdemo.ui.chatting.ImageGralleryPagerActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:247:9-251:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:250:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:251:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:249:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:248:13-67
+activity#com.yuntongxun.ecdemo.ui.livechatroom.ECLIveChatRoomListUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:252:9-256:67
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:255:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:256:13-64
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:254:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:253:13-65
+activity#com.yuntongxun.ecdemo.ui.livechatroom.CreateRoomUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:257:9-261:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:260:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:261:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:259:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:258:13-57
+activity#com.yuntongxun.ecdemo.ui.plugin.FileExplorerActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:263:9-265:77
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:265:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:264:13-59
+activity#com.yuntongxun.ecdemo.ui.group.CreateGroupActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:267:9-271:58
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:270:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:271:13-55
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:269:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:268:13-57
+activity#com.yuntongxun.ecdemo.ui.group.GroupNoticeAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:273:9-277:58
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:276:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:277:13-55
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:275:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:274:13-52
+activity#com.yuntongxun.ecdemo.ui.group.GroupSelectTypeAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:279:9-283:58
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:282:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:283:13-55
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:281:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:280:13-56
+activity#com.yuntongxun.ecdemo.ui.mvp.group.GroupQRUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:286:9-290:58
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:289:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:290:13-55
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:288:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:287:13-51
+activity#com.yuntongxun.ecdemo.ui.contact.NewFrendAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:293:9-297:58
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:296:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:297:13-55
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:295:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:294:13-51
+activity#com.yuntongxun.ecdemo.ui.contact.ContactSelectListActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:299:9-303:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:302:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:303:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:301:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:300:13-65
+activity#com.yuntongxun.ecdemo.ui.contact.MobileContactSelectActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:305:9-309:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:308:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:309:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:307:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:306:13-67
+activity#com.yuntongxun.ecdemo.ui.contact.SelectContactUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:310:9-314:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:313:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:314:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:312:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:311:13-55
+activity#com.yuntongxun.ecdemo.ui.settings.SettingsActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:316:9-320:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:319:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:320:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:318:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:317:13-57
+activity#com.yuntongxun.ecdemo.ui.group.ECDiscussionActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:322:9-326:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:325:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:326:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:324:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:323:13-58
+activity#com.yuntongxun.ecdemo.ui.contact.GroupCardSelectUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:328:9-332:67
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:331:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:332:13-64
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:330:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:329:13-57
+activity#com.yuntongxun.ecdemo.ui.group.GroupInfoActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:334:9-338:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:337:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:338:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:336:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:335:13-55
+activity#com.yuntongxun.ecdemo.ui.group.GroupMembersAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:341:9-345:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:344:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:345:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:343:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:342:13-53
+activity#com.yuntongxun.ecdemo.ui.group.GroupMemberControlAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:347:9-352:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:350:13-49
+	android:launchMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:351:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:352:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:349:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:348:13-59
+activity#com.yuntongxun.ecdemo.ui.group.SearchGroupActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:354:9-356:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:356:13-49
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:355:13-57
+activity#com.yuntongxun.ecdemo.ui.group.BaseSearch
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:357:9-360:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:359:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:360:13-54
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:358:13-48
+activity#com.yuntongxun.ecdemo.ui.settings.EditConfigureActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:361:9-363:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:363:13-49
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:362:13-62
+activity#com.yuntongxun.ecdemo.ui.group.GroupMemberCardActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:365:9-367:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:367:13-49
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:366:13-61
+activity#com.yuntongxun.ecdemo.ui.group.ApplyWithGroupPermissionActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:369:9-373:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:372:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:373:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:371:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:370:13-70
+activity#com.yuntongxun.ecdemo.ui.group.SystemNoticeActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:375:9-379:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:378:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:379:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:377:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:376:13-58
+activity#com.yuntongxun.ecdemo.ui.settings.LoginSettingActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:381:9-383:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:383:13-49
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:382:13-61
+activity#com.yuntongxun.ecdemo.ui.settings.SettingPersionInfoActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:385:9-388:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:388:13-49
+	android:launchMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:387:13-48
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:386:13-67
+activity#com.yuntongxun.ecdemo.ui.settings.WebQrActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:389:9-391:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:391:13-49
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:390:13-54
+activity#com.yuntongxun.ecdemo.ui.contact.AtSomeoneUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:393:9-396:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:396:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:395:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:394:13-51
+activity#com.yuntongxun.ecdemo.ui.group.DiscussionAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:398:9-401:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:401:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:400:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:399:13-51
+activity#com.yuntongxun.ecdemo.ui.voip.VoIPCallActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:404:9-415:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:408:13-49
+	android:launchMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:407:13-44
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:406:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:409:13-71
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:405:13-53
+intent-filter#android.intent.category.DEFAULT+con.yuntongxun.ecdemo.intent.ACTION_VOICE_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:410:13-414:29
+action#con.yuntongxun.ecdemo.intent.ACTION_VOICE_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:411:17-89
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:411:25-86
+category#android.intent.category.DEFAULT
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:413:17-76
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:413:27-73
+activity#com.yuntongxun.ecdemo.ui.voip.VideoActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:416:9-427:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:420:13-49
+	android:launchMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:419:13-44
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:418:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:421:13-71
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:417:13-50
+intent-filter#android.intent.category.DEFAULT+con.yuntongxun.ecdemo.intent.ACTION_VIDEO_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:422:13-426:29
+action#con.yuntongxun.ecdemo.intent.ACTION_VIDEO_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:423:17-89
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:423:25-86
+activity#com.yuntongxun.ecdemo.ui.interphone.InterPhoneListActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:429:9-432:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:432:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:431:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:430:13-65
+activity#com.yuntongxun.ecdemo.ui.interphone.InterPhoneChatActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:434:9-437:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:437:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:436:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:435:13-65
+activity#com.yuntongxun.ecdemo.ui.meeting.MeetingListActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:439:9-442:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:442:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:441:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:440:13-59
+activity#com.yuntongxun.ecdemo.ui.meeting.VoiceMeetingActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:444:9-447:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:447:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:446:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:445:13-60
+activity#com.yuntongxun.ecdemo.ui.meeting.CreateVoiceMeetingActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:449:9-452:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:452:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:451:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:450:13-66
+activity#com.yuntongxun.ecdemo.ui.meeting.VoiceMeetingMemberManager
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:454:9-457:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:457:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:456:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:455:13-65
+activity#com.yuntongxun.ecdemo.ui.meeting.InviteByPhoneCall
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:460:9-463:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:463:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:462:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:461:13-57
+activity#com.yuntongxun.ecdemo.ui.meeting.InviteAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:464:9-467:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:467:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:466:13-74
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:465:13-49
+activity#com.yuntongxun.ecdemo.ui.videomeeting.VideoconferenceConversation
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:470:9-474:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:473:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:474:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:472:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:471:13-72
+activity#com.yuntongxun.ecdemo.ui.videomeeting.VideoInviteAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:476:9-480:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:479:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:480:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:478:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:477:13-59
+activity#com.yuntongxun.ecdemo.ui.videomeeting.VideoInviteByPhoneCall
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:481:9-485:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:484:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:485:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:483:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:482:13-67
+activity#com.yuntongxun.ecdemo.ui.videomeeting.VideoMeetingMemberManager
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:487:9-491:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:490:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:491:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:489:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:488:13-70
+activity#com.yuntongxun.ecdemo.ui.group.GroupRouterUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:492:9-496:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:495:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:496:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:494:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:493:13-51
+activity#com.yuntongxun.ecdemo.ui.videomeeting.CreateVideoConference
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:499:9-503:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:502:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:503:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:501:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:500:13-66
+activity#com.yuntongxun.ecdemo.ui.videomeeting.MultiVideoconference
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:505:9-510:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:508:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:510:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:507:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:509:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:506:13-65
+activity#com.yuntongxun.ecdemo.ui.LocationActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:514:9-519:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:517:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:519:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:516:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:518:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:515:13-48
+activity#com.yuntongxun.ecdemo.ui.ShowBaiDuMapActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:521:9-526:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:524:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:526:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:523:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:525:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:522:13-52
+activity#com.yuntongxun.ecdemo.ui.settings.AboutActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:528:9-533:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:531:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:533:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:530:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:532:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:529:13-54
+activity#com.yuntongxun.ecdemo.ui.friend.AddFriendActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:534:9-539:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:537:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:539:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:536:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:538:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:535:13-56
+activity#com.yuntongxun.ecdemo.ui.friend.AddressBookListAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:541:9-546:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:544:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:546:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:543:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:545:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:542:13-57
+activity#com.yuntongxun.ecdemo.ui.personcenter.FriendInfoUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:547:9-553:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:550:13-49
+	android:launchMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:551:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:553:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:549:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:552:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:548:13-57
+activity#com.yuntongxun.ecdemo.ui.account.ECServerConfigListUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:555:9-560:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:558:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:560:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:557:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:559:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:556:13-60
+activity#com.yuntongxun.ecdemo.ui.settings.WebAboutActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:562:9-567:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:565:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:567:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:564:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:566:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:563:13-57
+activity#com.yuntongxun.ecdemo.ui.chatting.ECMessageFeedUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:569:9-574:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:572:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:574:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:571:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:573:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:570:13-56
+activity#com.yuntongxun.ecdemo.ui.huawei.PustDemoActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:575:9-580:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:578:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:580:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:577:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:579:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:576:13-55
+activity#com.yuntongxun.ecdemo.ui.settings.SetRatioActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:581:9-586:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:584:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:586:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:583:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:585:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:582:13-57
+activity#com.yuntongxun.ecdemo.ui.settings.SuggestActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:587:9-592:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:590:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:592:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:589:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:591:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:588:13-56
+activity#com.yuntongxun.ecdemo.ui.personcenter.PersonInfoUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:593:9-598:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:596:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:598:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:595:13-63
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:597:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:594:13-57
+activity#com.yuntongxun.ecdemo.ui.group.GroupAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:600:9-604:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:603:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:604:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:602:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:601:13-46
+activity#com.yuntongxun.ecdemo.ui.group.GroupGagActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:607:9-611:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:610:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:611:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:609:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:608:13-54
+activity#com.yuntongxun.ecdemo.ui.group.GroupManagerAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:614:9-618:57
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:617:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:618:13-54
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:616:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:615:13-53
+activity#com.yuntongxun.ecdemo.ui.settings.WXEntryActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:621:9-626:75
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:625:13-49
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:624:13-36
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:623:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:626:13-72
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:622:13-56
+activity#com.mob.tools.MobUIShell
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:627:9-648:20
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:630:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:632:13-67
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:629:13-74
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:631:13-72
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:628:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:633:13-640:29
+data
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:634:17-63
+	android:scheme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:634:23-60
+action#android.intent.action.VIEW
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:636:17-69
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:636:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:638:17-78
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:638:27-75
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:643:13-647:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:644:17-92
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:644:25-89
+activity#com.yuntongxun.ecdemo.photopicker.PhotoDirectoryPickerActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:651:9-654:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:654:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:653:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:652:13-69
+activity#com.yuntongxun.ecdemo.photopicker.PhotoPickerActivity02
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:656:9-659:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:659:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:658:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:657:13-62
+activity#com.yuntongxun.ecdemo.photopicker.SelectedPreviewActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:662:9-664:52
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:664:13-49
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:663:13-63
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:662:19-70
+service#com.yuntongxun.ecsdk.ECClientService
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:668:9-671:39
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:670:13-35
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:671:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:669:13-64
+service#com.yuntongxun.ecsdk.ECClientService$InnerService
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:672:9-675:39
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:674:13-35
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:675:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:673:13-77
+receiver#com.yuntongxun.ecsdk.ECClientService$WarkReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:677:9-685:20
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:679:13-35
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:681:13-36
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:680:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:678:13-77
+intent-filter#aaabbb
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:682:13-684:29
+action#aaabbb
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:683:17-49
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:683:25-46
+receiver#com.yuntongxun.ecsdk.booter.CCPReceivers$AlarmReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:687:9-689:39
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:689:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:688:13-82
+receiver#com.yuntongxun.ecsdk.booter.Alarm
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:691:9-694:39
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:694:13-36
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:693:13-37
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:692:13-61
+receiver#com.yuntongxun.ecsdk.booter.CCPReceivers$ConnectionReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:696:9-702:20
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:698:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:697:13-87
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:699:13-701:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:700:17-79
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:700:25-76
+receiver#com.yuntongxun.ecsdk.booter.CCPReceivers$BootReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:705:9-711:20
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:707:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:706:13-81
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:708:13-710:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:709:17-79
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:709:25-76
+receiver#com.yuntongxun.ecdemo.service.YuntxNotifyReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:723:9-736:20
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:725:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:724:13-56
+intent-filter#com.yuntongxun.eckuailiao.action.MESSAGE+com.yuntongxun.eckuailiao.action.NOTIFICATION_CLICK+com.yuntongxun.eckuailiao.action.PERSON_VERSION+com.yuntongxun.eckuailiao.action.SOFT_UPDATER+com.yuntongxun.eckuailiao.action.VOIP_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:726:13-735:29
+action#com.yuntongxun.eckuailiao.action.VOIP_CALL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:729:17-85
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:729:25-82
+action#com.yuntongxun.eckuailiao.action.MESSAGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:730:17-83
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:730:25-80
+action#com.yuntongxun.eckuailiao.action.NOTIFICATION_CLICK
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:731:17-94
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:731:25-91
+action#com.yuntongxun.eckuailiao.action.PERSON_VERSION
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:732:17-90
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:732:25-87
+action#com.yuntongxun.eckuailiao.action.SOFT_UPDATER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:734:17-88
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:734:25-85
+service#com.yuntongxun.ecdemo.service.YuntxNotifyReceiver$NotifyService
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:739:9-78
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:739:18-75
+service#com.baidu.location.f
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:740:9-743:41
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:742:13-35
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:743:13-38
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:741:13-48
+activity#com.melink.bqmmsdk.ui.store.EmojiPackageList
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:747:9-750:60
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:749:13-49
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:750:13-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:748:13-72
+activity#com.melink.bqmmsdk.ui.store.EmojiPackageDetail
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:751:9-754:60
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:753:13-49
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:754:13-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:752:13-74
+activity#com.melink.bqmmsdk.ui.store.ServiceDeclaration
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:755:9-758:60
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:757:13-49
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:758:13-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:756:13-74
+activity#com.melink.bqmmsdk.ui.store.EmojiPackageSetting
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:759:9-762:60
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:761:13-49
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:762:13-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:760:13-75
+activity#com.melink.bqmmsdk.ui.store.EmojiDetail
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:763:9-766:60
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:765:13-49
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:766:13-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:764:13-67
+activity#com.melink.bqmmsdk.ui.store.EmojiPackageSort
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:767:9-770:60
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:769:13-49
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:770:13-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:768:13-72
+meta-data#bqmm_app_id
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:773:9-775:64
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:775:13-61
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:774:13-39
+meta-data#bqmm_app_secret
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:776:9-778:64
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:778:13-61
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:777:13-43
+meta-data#BUGLY_APPID
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:780:9-782:42
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:782:13-39
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:781:13-39
+meta-data#BUGLY_APP_VERSION
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:783:9-785:37
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:785:13-34
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:784:13-45
+meta-data#BUGLY_APP_CHANNEL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:786:9-788:42
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:788:13-39
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:787:13-45
+meta-data#BUGLY_ENABLE_DEBUG
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:789:9-791:36
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:791:13-33
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:790:13-46
+activity#com.yunzhanghu.redpacketui.ui.activity.RPRedPacketActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:794:9-798:68
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:796:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:798:13-65
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:797:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:795:13-86
+activity#com.yunzhanghu.redpacketui.ui.activity.RPDetailActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:799:9-803:55
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:801:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:803:13-52
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:802:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:800:13-83
+activity#com.yunzhanghu.redpacketui.ui.activity.RPRecordActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:804:9-808:55
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:806:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:808:13-52
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:807:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:805:13-83
+activity#com.yunzhanghu.redpacketui.ui.activity.RPWebViewActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:809:9-813:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:811:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:813:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:812:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:810:13-84
+activity#com.yunzhanghu.redpacketui.ui.activity.RPChangeActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:814:9-818:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:816:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:818:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:817:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:815:13-83
+activity#com.yunzhanghu.redpacketui.ui.activity.RPBankCardActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:819:9-823:67
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:821:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:823:13-64
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:822:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:820:13-85
+activity#com.yunzhanghu.redpacketui.ui.activity.RPGroupMemberActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:824:9-828:67
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:826:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:828:13-64
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:827:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:825:13-88
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:829:9-833:67
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:831:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:833:13-64
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:832:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:830:13-75
+activity#com.yuntongxun.ecdemo.ui.xiaomi.MainActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:834:9-838:67
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:836:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:838:13-64
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:837:13-52
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:835:13-51
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:839:9-844:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:843:13-47
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:842:13-37
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:844:13-67
+	android:configChanges
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:841:13-85
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:840:13-60
+receiver#com.yuntongxun.ecdemo.ui.huawei.MyReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:852:9-870:20
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:852:19-55
+intent-filter#com.huawei.android.push.intent.CLICK+com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.android.push.plugin.RESPONSE+com.huawei.intent.action.PUSH_STATE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:853:13-865:29
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:856:17-86
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:856:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:858:17-81
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:858:25-78
+action#com.huawei.android.push.intent.CLICK
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:860:17-79
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:860:25-76
+action#com.huawei.intent.action.PUSH_STATE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:862:17-78
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:862:25-75
+action#com.huawei.android.push.plugin.RESPONSE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:864:17-82
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:864:25-79
+meta-data#CS_cloud_ablitity
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:867:13-869:39
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:869:17-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:868:17-49
+receiver#com.huawei.android.pushagent.PushEventReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:879:9-894:20
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:881:13-43
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:880:13-74
+intent-filter#com.huawei.android.push.PLUGIN+com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL+com.huawei.intent.action.PUSH+com.huawei.intent.action.PUSH_ON
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:882:13-887:29
+action#com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:883:17-94
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:883:25-91
+action#com.huawei.intent.action.PUSH
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:884:17-72
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:884:25-69
+action#com.huawei.intent.action.PUSH_ON
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:885:17-75
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:885:25-72
+action#com.huawei.android.push.PLUGIN
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:886:17-73
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:886:25-70
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:888:13-893:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:889:17-78
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:889:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:890:17-80
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:890:25-77
+receiver#com.huawei.android.pushagent.PushBootReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:895:9-906:20
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:897:13-43
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:896:13-73
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+com.huawei.android.push.intent.REGISTER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:898:13-901:29
+action#com.huawei.android.push.intent.REGISTER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:899:17-82
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:899:25-79
+meta-data#CS_cloud_version
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:903:13-905:60
+	android:value
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:905:17-57
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:904:17-48
+service#com.huawei.android.pushagent.PushService
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:909:9-911:46
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:911:13-43
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:910:13-68
+service#com.xiaomi.push.service.XMPushService
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:915:9-918:46
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:917:13-35
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:918:13-43
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:916:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:919:9-922:39
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:921:13-35
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:922:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:920:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:923:9-925:38
+	android:enabled
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:925:13-35
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:924:13-70
+receiver#com.yuntongxun.ecdemo.ui.xiaomi.DemoMessageReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:927:9-939:20
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:929:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:928:13-58
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:930:13-932:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:931:17-76
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:931:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:933:13-935:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:934:17-76
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:934:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:936:13-938:29
+action#com.xiaomi.mipush.ERROR
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:937:17-66
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:937:25-63
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:940:9-948:20
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:942:13-36
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:941:13-83
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:943:13-947:29
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:949:9-956:20
+	android:process
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:952:13-43
+	android:exported
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:951:13-37
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:950:13-74
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:953:13-955:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:954:17-69
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:954:25-66
+activity#com.yuntongxun.ecdemo.ui.phonemodel.PhoneRegisterUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:959:9-963:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:961:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:963:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:962:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:960:13-58
+activity#com.yuntongxun.ecdemo.ui.personcenter.DeleteFriendUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:964:9-968:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:966:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:968:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:967:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:965:13-59
+activity#com.yuntongxun.ecdemo.ui.phonemodel.PhoneLoginUI
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:971:9-975:70
+	android:screenOrientation
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:973:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:975:13-67
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:974:13-44
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:972:13-55
+activity#com.yuntongxun.ecdemo.ui.smallwindow.MeetingWarningDialog
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:978:9-980:53
+	android:theme
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:980:13-50
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:979:13-64
+activity#com.yuntongxun.ecdemo.ui.chatting.ChatingDetailAct
+ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:982:9-983:59
+	android:name
+		ADDED from /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/AndroidManifest.xml:983:13-57
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:16:9-21:63
+	android:launchMode
+		ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:19:13-43
+	android:windowSoftInputMode
+		ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:21:13-60
+	android:configChanges
+		ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:18:13-113
+	android:theme
+		ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [YTX_Android_Full_Demo_v5.4.1r:vitamio:unspecified] /Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:17:13-64

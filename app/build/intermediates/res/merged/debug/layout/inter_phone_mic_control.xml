@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yuntongxun.ecdemo.ui.interphone.InterPhoneMicController xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/inter_phone_speak_ly"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/bottom"
+    android:orientation="vertical"
+    android:background="#f1f4f8">
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:textSize="15sp"
+        android:textColor="#808080"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/inter_phone_speak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/chat_yuyin_icon_duijiang_normal" />
+
+
+    <TextView
+        android:id="@+id/tv_notice"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20.2dp"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="59.5dp"
+        android:text="@string/ec_str_voice_room_bottom1"
+        android:textColor="#666666"
+        android:textSize="14sp"
+        android:visibility="visible"/>
+
+</com.yuntongxun.ecdemo.ui.interphone.InterPhoneMicController>
+

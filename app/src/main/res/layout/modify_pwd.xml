@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <!--<include layout="@layout/include_toolbar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/ll_top"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--/>-->
+
+
+    <ImageView
+        android:id="@+id/phone_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_top"
+        android:background="@drawable/big" />
+
+
+    <LinearLayout
+        android:id="@+id/ll_top"
+        android:layout_width="match_parent"
+        style="@style/common_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/common_shape"
+        android:orientation="vertical"
+        android:showDividers="middle">
+
+
+        <LinearLayout style="@style/ll_creat_style">
+
+            <EditText
+                android:id="@+id/ed_name"
+                style="@style/CCPLineEditText"
+                android:layout_width="0dp"
+                android:layout_marginLeft="@dimen/phone_padding"
+                android:layout_weight="1"
+                android:background="@null"
+                android:digits="1234567890"
+                android:drawableLeft="@drawable/regist_icon_username"
+                android:drawablePadding="7dp"
+                android:hint="请输入手机号"
+                android:inputType="phone"
+                android:maxLength="11"
+                android:paddingRight="32dip"
+                android:singleLine="true">
+
+                <requestFocus/>
+            </EditText>
+        </LinearLayout>
+
+        <RelativeLayout style="@style/ll_creat_style"
+            >
+
+            <EditText
+                android:id="@+id/ed_yanzhengma"
+                style="@style/CCPLineEditText"
+                android:layout_width="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/phone_padding"
+                android:layout_toLeftOf="@+id/ll_yzm"
+                android:background="@null"
+                android:drawableLeft="@drawable/regist_icon_yanzheng"
+                android:drawablePadding="7dp"
+                android:gravity="center_vertical"
+                android:hint="请输入验证码"
+                android:maxLength="6"
+                android:paddingRight="32dip"
+                android:singleLine="true">
+
+            </EditText>
+
+
+            <LinearLayout
+                android:id="@+id/ll_yzm"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+
+                <View
+                    android:layout_width="1dip"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="10dip"
+                    android:layout_marginTop="10dip"
+                    android:background="#ea4a64"/>
+
+
+                <TextView
+                    android:id="@+id/tv_getcode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/phone_top"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:letterSpacing="0.08"
+                    android:lineSpacingExtra="2sp"
+                    android:text="获取验证码"
+                    android:textColor="#ea4a64"
+                    android:textSize="13sp"
+                    />
+            </LinearLayout>
+        </RelativeLayout>
+
+
+        <LinearLayout style="@style/ll_creat_style">
+            <EditText
+                android:id="@+id/ed_pwd"
+                style="@style/CCPLineEditText"
+                android:layout_width="0dp"
+                android:layout_marginLeft="@dimen/phone_padding"
+                android:layout_weight="1"
+                android:background="@null"
+                android:drawableLeft="@drawable/regist_icon_password"
+                android:drawablePadding="7dp"
+                android:hint="请输入账户密码"
+                android:inputType="textPassword"
+                android:maxLength="32"
+                android:paddingRight="32dip"
+                android:singleLine="true">
+
+            </EditText>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/phone_reset_pwd"
+        android:layout_width="match_parent"
+        android:layout_height="44dip"
+        android:layout_below="@+id/ll_top"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:layout_marginTop="@dimen/phone_top"
+        android:background="@drawable/btn_login_bg"
+        android:gravity="center"
+        android:text="确定"
+        android:textColor="#ffffff"
+        android:textSize="20sp"/>
+
+
+</LinearLayout>

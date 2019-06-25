@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/self_info"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/iv_my_header"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10.5dp"
+            android:src="@drawable/header_woman" />
+
+        <TextView
+            android:id="@+id/item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/iv_my_header"
+            android:layout_toLeftOf="@+id/item_bu"
+            android:layout_marginRight="7dp"
+            android:gravity="left"
+            android:textColor="#333333"
+            android:textSize="16sp"
+            tools:text="夜" />
+
+        <TextView
+            android:id="@+id/item_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/item_name"
+            android:layout_below="@+id/item_name"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/item_bu"
+            android:layout_marginRight="7dp"
+            android:gravity="left"
+            android:maxLines="2"
+            android:textColor="#999999"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/item_bu"
+            android:layout_width="60dip"
+            android:layout_height="25dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="7dp"
+            android:background="@drawable/blue_rect_bg"
+            android:text="同意"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+</LinearLayout>

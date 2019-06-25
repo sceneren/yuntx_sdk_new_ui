@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/voip_shadows">
+
+    <com.yuntongxun.ecsdk.voip.video.ECOpenGlView
+        android:id="@+id/ogv_talking"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        />
+
+    <com.yuntongxun.ecsdk.voip.video.ECOpenGlView
+        android:id="@+id/ogv_local_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="2.0000255dip"
+        android:layout_marginRight="2.0000255dip" />
+    <ImageView
+        android:id="@+id/voip_maximize"
+        android:layout_width="18.000229dip"
+        android:layout_height="18.000229dip"
+        android:layout_marginLeft="8.000102dip"
+        android:layout_marginTop="6.0000763dip" />
+</RelativeLayout>

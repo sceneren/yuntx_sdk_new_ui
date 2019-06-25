@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:form="http://schemas.android.com/apk/res-auto"
+    xmlns:spinnerView="http://schemas.android.com/apk/res-auto"
+    style="@style/CCPScroll"
+    android:background="#f1f4f8"
+    android:scrollbars="none">
+
+    <LinearLayout style="@style/CCPBody">
+
+        <com.yuntongxun.ecdemo.common.base.CCPFormInputView
+            android:id="@+id/meeting_name"
+            style="@style/CCPFormInputView"
+            android:layout_marginTop="12dp"
+            android:background="@color/white"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            form:form_hint="@string/str_chatroom_name_input_hit"
+            form:form_layout="@layout/ccp_form_input_clear_et_view"
+            form:form_title="@string/str_chatroom_name" />
+
+        <com.yuntongxun.ecdemo.common.base.CCPFormInputView
+            android:id="@+id/meeting_pass"
+            style="@style/CCPFormInputView"
+            android:layout_marginTop="12dp"
+            android:background="@color/white"
+
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            form:form_hint="@string/str_chatroom_pwd_input_hit"
+            form:form_layout="@layout/ccp_form_input_clear_et_view"
+            form:form_title="@string/str_chatroom_pwd" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:background="@color/white"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="声音设置"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <RadioGroup
+            android:id="@+id/rg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:padding="12dp">
+
+            <RadioButton
+                android:id="@+id/rb_only"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:button="@null"
+                android:drawableLeft="@drawable/check_state"
+                android:drawablePadding="5dp"
+                android:checked="true"
+                android:text="仅有背景音" />
+
+            <RadioButton
+                android:id="@+id/rb_all"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:button="@null"
+                android:drawableLeft="@drawable/check_state"
+                android:drawablePadding="5dp"
+                android:text="全部提示音" />
+
+            <RadioButton
+                android:id="@+id/rb_quiet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:button="@null"
+                android:drawableLeft="@drawable/check_state"
+                android:drawablePadding="5dp"
+                android:paddingRight="12dp"
+                android:text="无声" />
+        </RadioGroup>
+
+        <CheckedTextView
+            android:id="@+id/auto_del"
+            style="@style/CheckboxStyle"
+            android:layout_marginTop="12dp"
+            android:text="@string/tip_auto_del" />
+
+        <include layout="@layout/include_black_line" />
+
+        <CheckedTextView
+            android:id="@+id/auto_close"
+            style="@style/CheckboxStyle"
+            android:checked="true"
+            android:text="@string/tip_autoclose" />
+
+        <include layout="@layout/include_black_line" />
+
+        <CheckedTextView
+            android:id="@+id/auto_join"
+            style="@style/CheckboxStyle"
+            android:checked="true"
+            android:text="@string/tip_autojoin" />
+
+
+        <com.yuntongxun.ecdemo.common.base.SpinnerSelectView
+            android:id="@+id/spinner_room_type"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10.0dip"
+            android:text="@string/str_room_tyep_spinner"
+            android:textSize="@dimen/TitleTextSize"
+            android:visibility="gone"
+            spinnerView:Spinner_DropDownTitle="@string/str_room_tyep_spinner"
+            spinnerView:Spinner_item="@array/meeting_type" />
+
+    </LinearLayout>
+
+</ScrollView>

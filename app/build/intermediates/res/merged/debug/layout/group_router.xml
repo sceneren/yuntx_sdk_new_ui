@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/main_bg"
+    android:layout_height="match_parent">
+
+
+    <include layout="@layout/include_toolbar" />
+
+    <RelativeLayout
+        android:id="@+id/p_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/content_bg"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/min_height">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp"
+            android:gravity="center_vertical"
+            android:text="群组列表"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_my_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/phone_top"
+            android:layout_toLeftOf="@+id/iv_go3"
+            android:gravity="center_vertical"
+            android:textColor="#666666"
+            android:textSize="13sp"
+             />
+
+        <ImageView
+            android:id="@+id/iv_go3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <RelativeLayout
+        android:id="@+id/p_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/content_bg"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:minHeight="@dimen/min_height">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="13dp"
+            android:text="搜索群组"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_my_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/phone_top"
+            android:layout_toLeftOf="@+id/iv_go4"
+            android:gravity="center_vertical"
+            android:textColor="#666666"
+            android:textSize="13sp"
+             />
+
+        <ImageView
+            android:id="@+id/iv_go4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/workbench_icon_go" />
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/NavPage"
+    android:background="@color/white">
+
+
+    <com.yuntongxun.ecdemo.common.base.CCPClearEditText
+        android:id="@+id/say_hi_content"
+        android:layout_marginTop="16dp"
+        android:layout_height="45dp"
+        style="@style/CCPLineEditText"
+        android:layout_marginLeft="33.5dp"
+        android:layout_marginRight="33.5dp"
+        android:background="@drawable/invite_edit_bg"
+        android:inputType="textMultiLine"
+        android:paddingLeft="5.0dip"
+        android:paddingRight="5.0dip">
+
+        <requestFocus />
+    </com.yuntongxun.ecdemo.common.base.CCPClearEditText>
+
+
+    <Button
+        android:id="@+id/btn_invite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33.5dp"
+        android:layout_marginTop="52.5dp"
+        android:layout_marginRight="33.5dp"
+        android:textSize="14sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/btn_blue_bg"
+        android:text="邀请"
+
+        />
+
+</LinearLayout>

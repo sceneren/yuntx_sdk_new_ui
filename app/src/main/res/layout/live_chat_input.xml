@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@android:color/white"
+    android:paddingLeft="7dp"
+    android:paddingRight="7dp"
+    android:orientation="horizontal"
+    >
+
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/input_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="7dp"
+            android:layout_weight="1"
+            >
+
+            <EditText
+                android:id="@+id/input_live"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:background="@android:color/transparent"
+                android:maxLines="3"
+                android:textSize="12sp"/>
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/input_send_live"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:background="@drawable/tuoyuan"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="发送"
+            android:textColor="@color/black"
+            android:textSize="10sp"/>
+
+</LinearLayout>

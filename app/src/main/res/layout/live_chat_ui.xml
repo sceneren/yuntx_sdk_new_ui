@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_height="match_parent">
+
+        <io.vov.vitamio.widget.VideoView
+            android:id="@+id/surface_view"
+            android:layout_width="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_height="match_parent"/>
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:id="@+id/iv_aixin"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:layout_height="wrap_content" />
+
+
+
+    </FrameLayout>
+
+
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/live_top"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dip"
+        android:layout_height="wrap_content">
+
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:id="@+id/live_zhubo"
+            android:background="@drawable/tuoyuan"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:editable="false"
+                android:id="@+id/tv_pic"
+                android:padding="5dip"
+                android:layout_alignParentLeft="true"
+                android:drawableLeft="@drawable/def_usericon"
+                android:textColor="@color/white"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_toRightOf="@+id/tv_pic"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/tv_desc"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/white"
+                    android:id="@+id/tv_online"
+                    android:layout_height="wrap_content" />
+
+
+            </LinearLayout>
+
+
+
+        </RelativeLayout>
+
+
+
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview_horizontal"
+            android:layout_width="match_parent"
+            android:layout_toRightOf="@+id/live_zhubo"
+            android:padding="5dip"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/iv_quit"
+            android:scrollbars="none"
+            ></android.support.v7.widget.RecyclerView>
+
+
+
+
+
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/iv_quit"
+            android:clickable="true"
+            android:visibility="invisible"
+            android:paddingRight="20dip"
+            android:src="@drawable/xidiao"
+            android:layout_height="wrap_content" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_below="@+id/live_top"
+        android:layout_marginTop="10dip"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:visibility="gone"
+            android:padding="5dip"
+            android:layout_marginLeft="10dip"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/tuoyuan"
+            android:text="在线人数:"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:padding="5dip"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            android:layout_marginLeft="10dip"
+
+            android:background="@drawable/tuoyuan"
+            android:paddingRight="20dip"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content" />
+
+
+    </RelativeLayout>
+
+
+
+
+    <com.yuntongxun.ecdemo.ui.livechatroom.GiftItemView
+        android:id="@+id/live_gift_num"
+        android:layout_width="match_parent"
+        android:layout_above="@+id/live_listview"
+        android:layout_height="wrap_content">
+
+
+    </com.yuntongxun.ecdemo.ui.livechatroom.GiftItemView>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/live_listview"
+        android:layout_width="200dp"
+        android:layout_height="160dp"
+        android:layout_above="@+id/live_bar"
+        android:divider="@null"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="none"
+        android:transcriptMode="alwaysScroll"/>
+
+    <fragment
+        android:id="@+id/live_bar"
+        android:name="com.yuntongxun.ecdemo.ui.livechatroom.LIveFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        tools:layout="@layout/live_fragment"/>
+
+    <com.yuntongxun.ecdemo.common.view.DivergeView
+        android:id="@+id/divergeView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="130dp"
+        android:layout_height="300dp"/>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:visibility="gone"
+            android:id="@+id/tv_modify"
+            android:clickable="true"
+            android:text="个人信息"
+            android:onClick="onClick"
+            android:textColor="@color/white"
+            android:drawableBottom="@drawable/def_usericon"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+    <com.yuntongxun.ecdemo.ui.livechatroom.BSRGiftView
+        android:id="@+id/gift_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.yuntongxun.ecdemo.ui.livechatroom.BSRGiftLayout
+        android:id="@+id/gift_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+</RelativeLayout>

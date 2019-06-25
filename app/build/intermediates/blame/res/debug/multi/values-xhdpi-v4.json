@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 6,
+                        "startOffset": 552,
+                        "endColumn": 53,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 42,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 42,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 44,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 44,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 45,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 45,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 44,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 44,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 43,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 43,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 53,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/scene/Downloads/YTX_Android_Full_Demo_v5.4.1r/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 53,
+                        "endOffset": 791
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_toolbar"/>
+
+    <ImageView
+        android:id="@+id/iv_workbench_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@drawable/banner" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll_im"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8.5dp"
+        android:layout_marginLeft="10.5dp"
+        android:layout_marginTop="9dp"
+        android:text="移动办公" />
+
+
+    <TextView
+        android:id="@+id/tv_audio_video"
+        style="@style/MyContentStyle"
+        android:drawableLeft="@drawable/workbench_icon_yuyin"
+        android:text="语音群聊" />
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <TextView
+        android:id="@+id/tv_video_conference"
+        style="@style/MyContentStyle"
+        android:drawableLeft="@drawable/workbench_icon_shipin"
+        android:text="视频会议" />
+
+    <include layout="@layout/include_margin_left_52__black_line" />
+
+    <TextView
+        android:id="@+id/tv_poc_client"
+        style="@style/MyContentStyle"
+        android:drawableLeft="@drawable/workbench_icon_duijiang"
+        android:text="实时对讲" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8.5dp"
+        android:layout_marginLeft="10.5dp"
+        android:layout_marginTop="9dp"
+        android:text="其他应用" />
+
+    <TextView
+        android:id="@+id/tv_live"
+        style="@style/MyContentStyle"
+        android:drawableLeft="@drawable/workbench_icon_zhibo"
+        android:text="直播" />
+        <include layout="@layout/include_margin_left_52__black_line" />
+
+        <TextView
+            android:id="@+id/tv_jiqiren"
+            style="@style/MyContentStyle"
+            android:drawableLeft="@drawable/robot"
+            android:text="智能机器人" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

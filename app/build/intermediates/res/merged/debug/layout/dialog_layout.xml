@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/chooseStart"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:background="@drawable/abv"
+        android:text="开播"
+        android:textColor="#0000ff"
+        android:onClick="onClick"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/chooseStop"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/abv"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:text="停播"
+        android:textColor="#0000ff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/chooseEnter"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/abv"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:text="进入直播聊天室"
+        android:textColor="#0000ff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="match_parent"
+        android:background="@drawable/abv"
+        android:layout_height="45dp"
+        android:layout_marginTop="8dp"
+        android:onClick="onClick"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#0000ff"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
